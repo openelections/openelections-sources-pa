@@ -1,0 +1,2745 @@
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	
+	95	69	72.63	0	95	69	8	11.59	61	88.41	0	-	0	-	0	-	0	0	
+	95	-	-	-	95	0	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	10	10.53	0	95	10	3	30.00	7	70.00	0	-	0	-	0	-	0	0	
+	95	-	-	-	95	0	0	-	0	-	0	-	0	-	0	-	0	0	
+	584	381	65.24	0	584	379	55	14.51	318	83.91	5	1.32	0	-	1	0.26	0	2	
+	584	12	2.05	0	584	11	2	18.18	8	72.73	1	9.09	0	-	0	-	0	1	
+	584	99	16.95	0	584	99	43	43.43	54	54.55	0	-	2	2.02	0	-	0	0	
+	584	7	1.20	0	584	7	1	14.29	5	71.43	1	14.29	0	-	0	-	0	0	
+	147	104	70.75	0	147	104	10	9.62	94	90.38	0	-	0	-	0	-	0	0	
+	147	-	-	-	147	0	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	15	10.20	0	147	15	5	33.33	10	66.67	0	-	0	-	0	-	0	0	
+	147	1	0.68	0	147	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+	693	466	67.24	0	693	465	80	17.20	381	81.94	3	0.65	0	-	1	0.22	0	1	
+	693	4	0.58	0	693	4	1	25.00	3	75.00	0	-	0	-	0	-	0	0	
+	693	125	18.04	0	693	125	54	43.20	70	56.00	0	-	1	0.80	0	-	0	0	
+	693	6	0.87	0	693	6	0	-	6	100.00	0	-	0	-	0	-	0	0	
+	417	260	62.35	0	417	260	82	31.54	174	66.92	3	1.15	1	0.38	0	-	0	0	
+	417	3	0.72	0	417	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+	417	61	14.63	0	417	59	38	64.41	21	35.59	0	-	0	-	0	-	0	2	
+	417	3	0.72	0	417	3	2	66.67	1	33.33	0	-	0	-	0	-	0	0	
+	395	231	58.48	0	395	231	96	41.56	132	57.14	1	0.43	2	0.87	0	-	0	0	
+	395	3	0.76	0	395	3	3	100.00	0	-	0	-	0	-	0	-	0	0	
+	395	55	13.92	0	395	55	35	63.64	20	36.36	0	-	0	-	0	-	0	0	
+	395	4	1.01	0	395	4	3	75.00	1	25.00	0	-	0	-	0	-	0	0	
+	554	344	62.09	0	554	343	92	26.82	245	71.43	4	1.17	0	-	2	0.58	0	1	
+	554	9	1.62	0	554	5	4	80.00	1	20.00	0	-	0	-	0	-	0	4	
+	554	71	12.82	0	554	71	45	63.38	26	36.62	0	-	0	-	0	-	0	0	
+	554	2	0.36	0	554	2	1	50.00	1	50.00	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	425	65.59	0	648	423	131	30.97	286	67.61	3	0.71	1	0.24	2	0.47	0	2	
+Absentee	648	6	0.93	0	648	4	3	75.00	1	25.00	0	-	0	-	0	-	0	2	
+Mail-In	648	86	13.27	0	648	86	48	55.81	38	44.19	0	-	0	-	0	-	0	0	
+Provisional	648	10	1.54	0	648	9	4	44.44	4	44.44	0	-	1	11.11	0	-	1	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	842	60.71	0	1387	837	206	24.61	624	74.55	6	0.72	1	0.12	0	-	0	5	
+Absentee	1387	15	1.08	0	1387	14	6	42.86	8	57.14	0	-	0	-	0	-	0	1	
+Mail-In	1387	236	17.02	0	1387	235	121	51.49	110	46.81	2	0.85	2	0.85	0	-	0	1	
+Provisional	1387	16	1.15	0	1387	15	4	26.67	10	66.67	0	-	0	-	1	6.67	0	1	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	991	48.87	0	2028	986	306	31.03	667	67.65	3	0.30	8	0.81	2	0.20	0	5	
+Absentee	2028	29	1.43	0	2028	24	12	50.00	12	50.00	0	-	0	-	0	-	0	5	
+Mail-In	2028	511	25.20	0	2028	509	289	56.78	215	42.24	4	0.79	1	0.20	0	-	0	2	
+Provisional	2028	14	0.69	0	2028	14	4	28.57	10	71.43	0	-	0	-	0	-	0	0	
+BURLINGTON BOROUGH	
+Normal	89	60	67.42	0	89	60	12	20.00	46	76.67	2	3.33	0	-	0	-	0	0	
+Absentee	89	-	-	-	89	0	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	89	11	12.36	0	89	11	4	36.36	7	63.64	0	-	0	-	0	-	0	0	
+Provisional	89	-	-	-	89	0	0	-	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	351	70.48	0	498	350	55	15.71	293	83.71	1	0.29	1	0.29	0	-	0	1	
+Absentee	498	2	0.40	0	498	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	498	73	14.66	0	498	73	42	57.53	30	41.10	0	-	1	1.37	0	-	0	0	
+Provisional	498	3	0.60	0	498	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	219	66.97	0	327	219	37	16.89	178	81.28	3	1.37	1	0.46	0	-	0	0	
+Absentee	327	10	3.06	0	327	8	1	12.50	7	87.50	0	-	0	-	0	-	0	2	
+Mail-In	327	38	11.62	0	327	37	13	35.14	22	59.46	0	-	1	2.70	1	2.70	0	1	
+Provisional	327	6	1.83	0	327	6	0	-	6	100.00	0	-	0	-	0	-	0	0	
+CANTON BOROUGH	
+Normal	995	588	59.10	0	995	583	117	20.07	458	78.56	4	0.69	0	-	4	0.69	0	5	
+Absentee	995	14	1.41	0	995	14	2	14.29	12	85.71	0	-	0	-	0	-	0	0	
+Mail-In	995	112	11.26	0	995	112	56	50.00	56	50.00	0	-	0	-	0	-	0	0	
+Provisional	995	18	1.81	0	995	18	2	11.11	15	83.33	0	-	1	5.56	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	874	70.54	0	1239	868	110	12.67	751	86.52	3	0.35	1	0.12	3	0.35	0	6	
+Absentee	1239	5	0.40	0	1239	5	0	-	5	100.00	0	-	0	-	0	-	0	0	
+Mail-In	1239	157	12.67	0	1239	156	44	28.21	110	70.51	1	0.64	1	0.64	0	-	0	1	
+Provisional	1239	7	0.56	0	1239	7	2	28.57	5	71.43	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	505	69.85	1	723	503	98	19.48	402	79.92	2	0.40	0	-	1	0.20	0	2	
+Absentee	723	7	0.97	0	723	7	1	14.29	6	85.71	0	-	0	-	0	-	0	0	
+Mail-In	723	78	10.79	0	723	78	33	42.31	44	56.41	1	1.28	0	-	0	-	0	0	
+Provisional	723	6	0.83	0	723	6	1	16.67	5	83.33	0	-	0	-	0	-	0	0	
+FRANKLIN TOWNSHIP	
+Normal	397	279	70.28	0	397	279	29	10.39	249	89.25	1	0.36	0	-	0	-	0	0	
+Absentee	397	4	1.01	0	397	3	2	66.67	1	33.33	0	-	0	-	0	-	0	1	
+Mail-In	397	37	9.32	0	397	37	14	37.84	23	62.16	0	-	0	-	0	-	0	0	
+Provisional	397	3	0.76	0	397	3	0	-	3	100.00	0	-	0	-	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	413	68.83	0	600	411	56	13.63	354	86.13	0	-	0	-	1	0.24	0	2	
+Absentee	600	2	0.33	0	600	2	0	-	1	50.00	0	-	0	-	1	50.00	0	0	
+Mail-In	600	63	10.50	0	600	63	23	36.51	38	60.32	0	-	0	-	2	3.17	0	0	
+Provisional	600	2	0.33	0	600	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	355	71.57	0	496	354	34	9.60	317	89.55	1	0.28	0	-	2	0.56	0	1	
+Absentee	496	1	0.20	0	496	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+Mail-In	496	65	13.10	0	496	65	18	27.69	47	72.31	0	-	0	-	0	-	0	0	
+Provisional	496	3	0.60	0	496	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	125	76.69	0	163	124	28	22.58	96	77.42	0	-	0	-	0	-	0	1	
+Absentee	163	1	0.61	0	163	1	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	163	17	10.43	0	163	17	8	47.06	9	52.94	0	-	0	-	0	-	0	0	
+Provisional	163	-	-	-	163	0	0	-	0	-	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	318	72.27	0	440	316	54	17.09	261	82.59	1	0.32	0	-	0	-	0	2	
+Absentee	440	8	1.82	0	440	7	3	42.86	4	57.14	0	-	0	-	0	-	0	1	
+Mail-In	440	55	12.50	0	440	55	21	38.18	34	61.82	0	-	0	-	0	-	0	0	
+Provisional	440	4	0.91	0	440	4	0	-	4	100.00	0	-	0	-	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	643	68.11	0	944	640	90	14.06	545	85.16	3	0.47	2	0.31	0	-	0	3	
+Absentee	944	13	1.38	0	944	12	4	33.33	8	66.67	0	-	0	-	0	-	0	1	
+Mail-In	944	120	12.71	0	944	119	45	37.82	72	60.50	0	-	1	0.84	1	0.84	1	0	
+Provisional	944	3	0.32	0	944	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	188	61.84	0	304	188	44	23.40	143	76.06	0	-	0	-	1	0.53	0	0	
+Absentee	304	4	1.32	0	304	4	1	25.00	3	75.00	0	-	0	-	0	-	0	0	
+Mail-In	304	64	21.05	0	304	64	41	64.06	23	35.94	0	-	0	-	0	-	0	0	
+Provisional	304	-	-	-	304	0	0	-	0	-	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	450	62.67	0	718	449	73	16.26	370	82.41	3	0.67	2	0.45	1	0.22	0	1	
+Absentee	718	2	0.28	0	718	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	718	117	16.30	0	718	116	30	25.86	84	72.41	1	0.86	0	-	1	0.86	0	1	
+Provisional	718	6	0.84	0	718	5	2	40.00	2	40.00	1	20.00	0	-	0	-	1	0	
+NEW ALBANY BOROUGH	
+Normal	148	102	68.92	0	148	102	23	22.55	78	76.47	0	-	1	0.98	0	-	0	0	
+Absentee	148	-	-	-	148	0	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	148	15	10.14	0	148	15	9	60.00	6	40.00	0	-	0	-	0	-	0	0	
+Provisional	148	3	2.03	0	148	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	547	69.95	0	782	543	87	16.02	452	83.24	3	0.55	1	0.18	0	-	0	4	
+Absentee	782	6	0.77	0	782	6	1	16.67	5	83.33	0	-	0	-	0	-	0	0	
+Mail-In	782	100	12.79	0	782	100	45	45.00	55	55.00	0	-	0	-	0	-	0	0	
+Provisional	782	3	0.38	0	782	3	0	-	3	100.00	0	-	0	-	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	131	76.61	0	171	131	19	14.50	112	85.50	0	-	0	-	0	-	0	0	
+Absentee	171	2	1.17	0	171	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	171	15	8.77	0	171	15	5	33.33	10	66.67	0	-	0	-	0	-	0	0	
+Provisional	171	2	1.17	0	171	2	1	50.00	1	50.00	0	-	0	-	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	292	72.28	0	404	292	59	20.21	227	77.74	2	0.68	0	-	4	1.37	0	0	
+Absentee	404	2	0.50	1	404	1	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	404	46	11.39	0	404	46	15	32.61	29	63.04	2	4.35	0	-	0	-	0	0	
+Provisional	404	4	0.99	0	404	4	1	25.00	3	75.00	0	-	0	-	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	786	59.46	0	1322	785	115	14.65	661	84.20	5	0.64	3	0.38	1	0.13	0	1	
+Absentee	1322	16	1.21	0	1322	13	1	7.69	12	92.31	0	-	0	-	0	-	0	3	
+Mail-In	1322	210	15.89	0	1322	210	96	45.71	114	54.29	0	-	0	-	0	-	0	0	
+Provisional	1322	7	0.53	0	1322	7	0	-	6	85.71	1	14.29	0	-	0	-	0	0	
+ROME BOROUGH	
+Normal	190	108	56.84	0	190	108	16	14.81	91	84.26	0	-	1	0.93	0	-	0	0	
+Absentee	190	2	1.05	0	190	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	190	20	10.53	0	190	18	4	22.22	14	77.78	0	-	0	-	0	-	0	2	
+Provisional	190	1	0.53	0	190	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	492	69.10	0	712	491	64	13.03	419	85.34	7	1.43	1	0.20	0	-	0	1	
+Absentee	712	2	0.28	0	712	1	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	712	89	12.50	0	712	87	38	43.68	46	52.87	0	-	1	1.15	2	2.30	0	2	
+Provisional	712	2	0.28	0	712	2	1	50.00	1	50.00	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	250	51.55	0	485	249	99	39.76	147	59.04	0	-	1	0.40	2	0.80	0	1	
+Absentee	485	5	1.03	0	485	5	4	80.00	1	20.00	0	-	0	-	0	-	0	0	
+Mail-In	485	72	14.85	0	485	72	45	62.50	27	37.50	0	-	0	-	0	-	0	0	
+Provisional	485	5	1.03	0	485	5	2	40.00	3	60.00	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	903	57.77	0	1563	901	337	37.40	545	60.49	10	1.11	4	0.44	5	0.55	0	2	
+Absentee	1563	20	1.28	0	1563	17	12	70.59	5	29.41	0	-	0	-	0	-	0	3	
+Mail-In	1563	255	16.31	0	1563	255	171	67.06	80	31.37	3	1.18	0	-	1	0.39	0	0	
+Provisional	1563	12	0.77	0	1563	12	5	41.67	7	58.33	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	224	62.92	0	356	224	67	29.91	153	68.30	4	1.79	0	-	0	-	0	0	
+Absentee	356	2	0.56	0	356	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	356	36	10.11	0	356	36	22	61.11	14	38.89	0	-	0	-	0	-	0	0	
+Provisional	356	2	0.56	0	356	2	1	50.00	1	50.00	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	581	63.99	0	908	579	217	37.48	355	61.31	4	0.69	1	0.17	2	0.35	0	2	
+Absentee	908	11	1.21	0	908	9	6	66.67	3	33.33	0	-	0	-	0	-	0	2	
+Mail-In	908	106	11.67	0	908	106	72	67.92	34	32.08	0	-	0	-	0	-	0	0	
+Provisional	908	9	0.99	0	908	9	4	44.44	5	55.56	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	109	56.19	0	194	108	27	25.00	79	73.15	1	0.93	1	0.93	0	-	0	1	
+Absentee	194	2	1.03	0	194	2	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	194	17	8.76	0	194	17	9	52.94	6	35.29	0	-	2	11.76	0	-	0	0	
+Provisional	194	3	1.55	0	194	3	2	66.67	1	33.33	0	-	0	-	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	562	64.75	0	868	559	87	15.56	469	83.90	1	0.18	1	0.18	1	0.18	0	3	
+Absentee	868	6	0.69	0	868	6	1	16.67	5	83.33	0	-	0	-	0	-	0	0	
+Mail-In	868	126	14.52	0	868	124	48	38.71	74	59.68	1	0.81	1	0.81	0	-	0	2	
+Provisional	868	2	0.23	0	868	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	706	68.21	1	1035	702	108	15.38	584	83.19	3	0.43	3	0.43	4	0.57	0	4	
+Absentee	1035	8	0.77	0	1035	6	3	50.00	3	50.00	0	-	0	-	0	-	0	2	
+Mail-In	1035	142	13.72	0	1035	141	55	39.01	85	60.28	1	0.71	0	-	0	-	0	1	
+Provisional	1035	8	0.77	0	1035	8	2	25.00	6	75.00	0	-	0	-	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	549	67.95	0	808	547	87	15.90	459	83.91	1	0.18	0	-	0	-	0	2	
+Absentee	808	7	0.87	0	808	7	2	28.57	5	71.43	0	-	0	-	0	-	0	0	
+Mail-In	808	89	11.01	0	808	89	47	52.81	41	46.07	0	-	0	-	1	1.12	0	0	
+Provisional	808	2	0.25	0	808	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	512	62.98	0	813	512	175	34.18	331	64.65	3	0.59	1	0.20	2	0.39	0	0	
+Absentee	813	6	0.74	0	813	6	1	16.67	5	83.33	0	-	0	-	0	-	0	0	
+Mail-In	813	116	14.27	0	813	116	73	62.93	41	35.34	2	1.72	0	-	0	-	0	0	
+Provisional	813	2	0.25	0	813	2	1	50.00	1	50.00	0	-	0	-	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	538	67.50	0	797	533	95	17.82	436	81.80	1	0.19	1	0.19	0	-	0	5	
+Absentee	797	7	0.88	0	797	6	3	50.00	3	50.00	0	-	0	-	0	-	0	1	
+Mail-In	797	122	15.31	0	797	119	55	46.22	64	53.78	0	-	0	-	0	-	0	3	
+Provisional	797	6	0.75	0	797	6	1	16.67	5	83.33	0	-	0	-	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	265	63.10	0	420	264	60	22.73	198	75.00	3	1.14	2	0.76	1	0.38	0	1	
+Absentee	420	2	0.48	0	420	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+Mail-In	420	72	17.14	0	420	72	26	36.11	45	62.50	1	1.39	0	-	0	-	0	0	
+Provisional	420	-	-	-	420	0	0	-	0	-	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	199	66.56	0	299	199	27	13.57	170	85.43	1	0.50	0	-	1	0.50	0	0	
+Absentee	299	1	0.33	0	299	1	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	299	41	13.71	0	299	41	14	34.15	27	65.85	0	-	0	-	0	-	0	0	
+Provisional	299	3	1.00	0	299	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	86	70.49	0	122	86	19	22.09	66	76.74	1	1.16	0	-	0	-	0	0	
+Absentee	122	-	-	-	122	0	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	122	14	11.48	0	122	13	10	76.92	3	23.08	0	-	0	-	0	-	0	1	
+Provisional	122	-	-	-	122	0	0	-	0	-	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	422	67.09	0	629	420	56	13.33	360	85.71	3	0.71	1	0.24	0	-	0	2	
+Absentee	629	6	0.95	0	629	6	0	-	6	100.00	0	-	0	-	0	-	0	0	
+Mail-In	629	108	17.17	0	629	108	32	29.63	75	69.44	0	-	1	0.93	0	-	0	0	
+Provisional	629	1	0.16	0	629	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	206	55.98	0	368	204	55	26.96	145	71.08	2	0.98	1	0.49	1	0.49	0	2	
+Absentee	368	2	0.54	0	368	2	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	368	48	13.04	0	368	47	18	38.30	27	57.45	0	-	1	2.13	1	2.13	0	1	
+Provisional	368	3	0.82	0	368	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	283	52.41	0	540	283	96	33.92	184	65.02	1	0.35	1	0.35	1	0.35	0	0	
+Absentee	540	5	0.93	0	540	5	0	-	5	100.00	0	-	0	-	0	-	0	0	
+Mail-In	540	82	15.19	0	540	82	35	42.68	47	57.32	0	-	0	-	0	-	0	0	
+Provisional	540	1	0.19	0	540	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	457	59.58	0	767	454	143	31.50	305	67.18	6	1.32	0	-	0	-	0	3	
+Absentee	767	17	2.22	0	767	14	3	21.43	11	78.57	0	-	0	-	0	-	0	3	
+Mail-In	767	118	15.38	0	767	117	59	50.43	57	48.72	0	-	1	0.85	0	-	0	1	
+Provisional	767	6	0.78	0	767	6	2	33.33	4	66.67	0	-	0	-	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	365	57.84	0	631	364	81	22.25	281	77.20	0	-	2	0.55	0	-	0	1	
+Absentee	631	2	0.32	0	631	2	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	631	112	17.75	0	631	112	48	42.86	64	57.14	0	-	0	-	0	-	0	0	
+Provisional	631	2	0.32	0	631	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	341	51.90	0	657	341	78	22.87	260	76.25	2	0.59	1	0.29	0	-	0	0	
+Absentee	657	9	1.37	0	657	9	1	11.11	6	66.67	0	-	2	22.22	0	-	0	0	
+Mail-In	657	176	26.79	0	657	176	89	50.57	86	48.86	1	0.57	0	-	0	-	0	0	
+Provisional	657	2	0.30	0	657	2	0	-	2	100.00	0	-	0	-	0	-	0	0	
+TROY BOROUGH	
+Normal	745	471	63.22	0	745	467	134	28.69	326	69.81	5	1.07	1	0.21	1	0.21	0	4	
+Absentee	745	7	0.94	0	745	5	5	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	745	82	11.01	0	745	81	44	54.32	37	45.68	0	-	0	-	0	-	0	1	
+Provisional	745	4	0.54	0	745	4	2	50.00	2	50.00	0	-	0	-	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	713	63.66	0	1120	710	118	16.62	587	82.68	2	0.28	0	-	3	0.42	0	3	
+Absentee	1120	10	0.89	0	1120	8	5	62.50	3	37.50	0	-	0	-	0	-	0	2	
+Mail-In	1120	178	15.89	0	1120	178	63	35.39	110	61.80	1	0.56	1	0.56	3	1.69	0	0	
+Provisional	1120	7	0.62	0	1120	7	2	28.57	5	71.43	0	-	0	-	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	483	70.31	1	687	480	60	12.50	414	86.25	4	0.83	1	0.21	1	0.21	0	3	
+Absentee	687	7	1.02	0	687	6	5	83.33	1	16.67	0	-	0	-	0	-	0	1	
+Mail-In	687	84	12.23	0	687	84	23	27.38	60	71.43	1	1.19	0	-	0	-	0	0	
+Provisional	687	3	0.44	0	687	3	0	-	3	100.00	0	-	0	-	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	553	66.39	0	833	550	86	15.64	458	83.27	4	0.73	0	-	2	0.36	0	3	
+Absentee	833	3	0.36	0	833	3	1	33.33	2	66.67	0	-	0	-	0	-	0	0	
+Mail-In	833	95	11.40	0	833	95	41	43.16	54	56.84	0	-	0	-	0	-	0	0	
+Provisional	833	6	0.72	0	833	6	2	33.33	4	66.67	0	-	0	-	0	-	0	0	
+WARREN TOWNSHIP	
+Normal	711	464	65.26	0	711	462	60	12.99	392	84.85	3	0.65	4	0.87	3	0.65	0	2	
+Absentee	711	5	0.70	0	711	4	0	-	4	100.00	0	-	0	-	0	-	0	1	
+Mail-In	711	111	15.61	0	711	111	40	36.04	68	61.26	1	0.90	0	-	2	1.80	0	0	
+Provisional	711	6	0.84	0	711	6	0	-	6	100.00	0	-	0	-	0	-	0	0	
+Turnout                                        PRESIDENTIAL ELECTORS	
+	Kamala D.          Donald J.           Chase Oliver      Jill Stein	
+	Reg. Voters	Ballots Cast	"
+Turnout"	Blank	Reg. Voters	Total Votes	Harris (President) Tim	Trump (President) JD	(President) Mike ter Maat	(President) Rudolph Ware	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	538	66.67	0	807	535	73	13.64	458	85.61	1	0.19	2	0.37	1	0.19	0	3	
+Absentee	807	7	0.87	0	807	5	4	80.00	1	20.00	0	-	0	-	0	-	0	2	
+Mail-In	807	116	14.37	0	807	116	40	34.48	73	62.93	2	1.72	1	0.86	0	-	0	0	
+Provisional	807	1	0.12	0	807	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	536	68.72	0	780	534	75	14.04	455	85.21	3	0.56	0	-	1	0.19	0	2	
+Absentee	780	3	0.38	0	780	2	1	50.00	1	50.00	0	-	0	-	0	-	0	1	
+Mail-In	780	112	14.36	0	780	112	44	39.29	64	57.14	1	0.89	2	1.79	1	0.89	0	0	
+Provisional	780	8	1.03	0	780	6	1	16.67	5	83.33	0	-	0	-	0	-	1	1	
+WINDHAM TOWNSHIP	
+Normal	567	379	66.84	0	567	376	64	17.02	310	82.45	1	0.27	0	-	1	0.27	0	3	
+Absentee	567	4	0.71	0	567	3	0	-	3	100.00	0	-	0	-	0	-	0	1	
+Mail-In	567	61	10.76	0	567	61	21	34.43	39	63.93	1	1.64	0	-	0	-	0	0	
+Provisional	567	8	1.41	0	567	8	1	12.50	6	75.00	0	-	1	12.50	0	-	0	0	
+WYALUSING BOROUGH	
+Normal	401	251	62.59	0	401	250	80	32.00	167	66.80	3	1.20	0	-	0	-	0	1	
+Absentee	401	1	0.25	0	401	1	0	-	1	100.00	0	-	0	-	0	-	0	0	
+Mail-In	401	52	12.97	0	401	52	34	65.38	18	34.62	0	-	0	-	0	-	0	0	
+Provisional	401	4	1.00	0	401	4	1	25.00	3	75.00	0	-	0	-	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	546	65.94	0	828	544	73	13.42	466	85.66	2	0.37	1	0.18	2	0.37	0	2	
+Absentee	828	5	0.60	0	828	5	0	-	5	100.00	0	-	0	-	0	-	0	0	
+Mail-In	828	128	15.46	0	828	126	49	38.89	76	60.32	0	-	0	-	1	0.79	0	2	
+Provisional	828	3	0.36	0	828	3	2	66.67	1	33.33	0	-	0	-	0	-	0	0	
+WYSOX TOWNSHIP	
+Normal	963	554	57.53	0	963	550	101	18.36	441	80.18	4	0.73	2	0.36	2	0.36	0	4	
+Absentee	963	17	1.77	0	963	14	9	64.29	5	35.71	0	-	0	-	0	-	0	3	
+Mail-In	963	185	19.21	0	963	183	64	34.97	118	64.48	1	0.55	0	-	0	-	1	1	
+Provisional	963	10	1.04	0	963	10	0	-	10	100.00	0	-	0	-	0	-	0	0	
+Total	
+Normal	39312	24985	63.56	3	39312	24880	5124	20.59	19486	78.32	148	0.59	59	0.24	63	0.25	0	105	
+Absentee	39312	371	0.94	1	39312	324	124	38.27	196	60.49	1	0.31	2	0.62	1	0.31	0	47	
+Mail-In	39312	5827	14.82	0	39312	5800	2676	46.14	3058	52.72	28	0.48	21	0.36	17	0.29	2	25	
+Provisional	39312	275	0.70	0	39312	270	66	24.44	197	72.96	3	1.11	3	1.11	1	0.37	3	2	
+Total	39312	31458	80.02	4	39312	31274	7990	25.55	22937	73.34	180	0.58	85	0.27	82	0.26	5	179	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	68	9	13.24	57	83.82	0	-	0	-	2	2.94	0	-	0	1	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	-	0	-	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	584	372	54	14.52	311	83.60	5	1.34	0	-	2	0.54	0	-	0	9	
+	584	11	2	18.18	8	72.73	0	-	1	9.09	0	-	0	-	0	1	
+	584	99	42	42.42	55	55.56	0	-	2	2.02	0	-	0	-	0	0	
+	584	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	0	
+	147	101	10	9.90	91	90.10	0	-	0	-	0	-	0	-	0	3	
+	147	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	15	5	33.33	10	66.67	0	-	0	-	0	-	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+	693	459	90	19.61	356	77.56	5	1.09	4	0.87	4	0.87	0	-	0	7	
+	693	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+	693	125	60	48.00	64	51.20	0	-	0	-	1	0.80	0	-	0	0	
+	693	6	0	-	5	83.33	0	-	0	-	0	-	1	16.67	0	0	
+	417	258	78	30.23	171	66.28	7	2.71	2	0.78	0	-	0	-	0	2	
+	417	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+	417	57	37	64.91	16	28.07	3	5.26	1	1.75	0	-	0	-	0	4	
+	417	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+	395	225	83	36.89	128	56.89	7	3.11	4	1.78	2	0.89	1	0.44	0	6	
+	395	3	2	66.67	0	-	1	33.33	0	-	0	-	0	-	0	0	
+	395	54	35	64.81	17	31.48	1	1.85	1	1.85	0	-	0	-	0	1	
+	395	4	3	75.00	0	-	0	-	1	25.00	0	-	0	-	0	0	
+	554	339	88	25.96	238	70.21	9	2.65	1	0.29	3	0.88	0	-	0	5	
+	554	5	4	80.00	1	20.00	0	-	0	-	0	-	0	-	0	4	
+	554	70	43	61.43	26	37.14	0	-	1	1.43	0	-	0	-	0	1	
+	554	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	420	132	31.43	275	65.48	8	1.90	4	0.95	1	0.24	0	-	0	5	
+Absentee	648	4	3	75.00	1	25.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	648	84	47	55.95	36	42.86	0	-	0	-	1	1.19	0	-	0	2	
+Provisional	648	9	5	55.56	4	44.44	0	-	0	-	0	-	0	-	1	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	830	201	24.22	607	73.13	10	1.20	4	0.48	6	0.72	2	0.24	0	12	
+Absentee	1387	14	6	42.86	8	57.14	0	-	0	-	0	-	0	-	0	1	
+Mail-In	1387	236	120	50.85	110	46.61	4	1.69	2	0.85	0	-	0	-	0	0	
+Provisional	1387	16	4	25.00	11	68.75	1	6.25	0	-	0	-	0	-	0	0	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	971	295	30.38	642	66.12	18	1.85	9	0.93	5	0.51	2	0.21	0	20	
+Absentee	2028	22	10	45.45	12	54.55	0	-	0	-	0	-	0	-	0	7	
+Mail-In	2028	506	278	54.94	221	43.68	4	0.79	2	0.40	1	0.20	0	-	0	5	
+Provisional	2028	14	4	28.57	9	64.29	0	-	1	7.14	0	-	0	-	0	0	
+BURLINGTON BOROUGH	
+Normal	89	59	17	28.81	39	66.10	2	3.39	1	1.69	0	-	0	-	0	1	
+Absentee	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	89	11	4	36.36	6	54.55	0	-	1	9.09	0	-	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	346	60	17.34	280	80.92	3	0.87	1	0.29	2	0.58	0	-	0	5	
+Absentee	498	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	498	71	40	56.34	28	39.44	1	1.41	2	2.82	0	-	0	-	0	2	
+Provisional	498	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	218	42	19.27	171	78.44	2	0.92	0	-	3	1.38	0	-	0	1	
+Absentee	327	8	4	50.00	4	50.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	327	38	13	34.21	23	60.53	1	2.63	0	-	1	2.63	0	-	0	0	
+Provisional	327	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	1	
+CANTON BOROUGH	
+Normal	995	580	126	21.72	432	74.48	13	2.24	3	0.52	6	1.03	0	-	0	8	
+Absentee	995	14	2	14.29	12	85.71	0	-	0	-	0	-	0	-	0	0	
+Mail-In	995	111	55	49.55	53	47.75	1	0.90	1	0.90	1	0.90	0	-	0	1	
+Provisional	995	18	2	11.11	15	83.33	0	-	1	5.56	0	-	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	858	122	14.22	727	84.73	3	0.35	0	-	5	0.58	1	0.12	0	16	
+Absentee	1239	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	1239	157	46	29.30	105	66.88	5	3.18	1	0.64	0	-	0	-	0	0	
+Provisional	1239	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	2	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	497	98	19.72	386	77.67	8	1.61	2	0.40	3	0.60	0	-	0	8	
+Absentee	723	7	1	14.29	6	85.71	0	-	0	-	0	-	0	-	0	0	
+Mail-In	723	78	35	44.87	41	52.56	0	-	0	-	2	2.56	0	-	0	0	
+Provisional	723	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+FRANKLIN TOWNSHIP	
+Normal	397	274	31	11.31	231	84.31	8	2.92	2	0.73	2	0.73	0	-	0	5	
+Absentee	397	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	1	
+Mail-In	397	37	13	35.14	24	64.86	0	-	0	-	0	-	0	-	0	0	
+Provisional	397	3	0	-	2	66.67	1	33.33	0	-	0	-	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	403	56	13.90	337	83.62	6	1.49	2	0.50	2	0.50	0	-	0	10	
+Absentee	600	2	0	-	1	50.00	0	-	0	-	1	50.00	0	-	0	0	
+Mail-In	600	63	23	36.51	39	61.90	1	1.59	0	-	0	-	0	-	0	0	
+Provisional	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	351	40	11.40	302	86.04	6	1.71	1	0.28	2	0.57	0	-	0	4	
+Absentee	496	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	496	65	21	32.31	42	64.62	2	3.08	0	-	0	-	0	-	0	0	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	121	25	20.66	91	75.21	3	2.48	1	0.83	1	0.83	0	-	0	4	
+Absentee	163	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	163	17	7	41.18	10	58.82	0	-	0	-	0	-	0	-	0	0	
+Provisional	163	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	311	60	19.29	241	77.49	8	2.57	1	0.32	1	0.32	0	-	0	7	
+Absentee	440	7	3	42.86	4	57.14	0	-	0	-	0	-	0	-	0	1	
+Mail-In	440	55	20	36.36	33	60.00	2	3.64	0	-	0	-	0	-	0	0	
+Provisional	440	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	631	95	15.06	518	82.09	12	1.90	3	0.48	2	0.32	1	0.16	0	12	
+Absentee	944	12	5	41.67	7	58.33	0	-	0	-	0	-	0	-	0	1	
+Mail-In	944	118	44	37.29	72	61.02	0	-	2	1.69	0	-	0	-	0	2	
+Provisional	944	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	187	37	19.79	138	73.80	8	4.28	2	1.07	2	1.07	0	-	0	1	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	304	63	36	57.14	23	36.51	2	3.17	1	1.59	1	1.59	0	-	0	1	
+Provisional	304	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	442	71	16.06	362	81.90	4	0.90	2	0.45	3	0.68	0	-	0	8	
+Absentee	718	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	718	114	35	30.70	78	68.42	1	0.88	0	-	0	-	0	-	0	3	
+Provisional	718	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	100	21	21.00	76	76.00	1	1.00	1	1.00	1	1.00	0	-	0	2	
+Absentee	148	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	148	15	9	60.00	6	40.00	0	-	0	-	0	-	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	542	85	15.68	450	83.03	4	0.74	2	0.37	0	-	1	0.18	0	5	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	782	99	45	45.45	54	54.55	0	-	0	-	0	-	0	-	0	1	
+Provisional	782	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	130	23	17.69	105	80.77	0	-	0	-	2	1.54	0	-	0	1	
+Absentee	171	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	171	15	4	26.67	11	73.33	0	-	0	-	0	-	0	-	0	0	
+Provisional	171	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	290	56	19.31	225	77.59	7	2.41	2	0.69	0	-	0	-	0	2	
+Absentee	404	0	0	-	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	404	46	15	32.61	30	65.22	1	2.17	0	-	0	-	0	-	0	0	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	775	122	15.74	629	81.16	17	2.19	2	0.26	5	0.65	0	-	0	11	
+Absentee	1322	13	1	7.69	11	84.62	0	-	0	-	0	-	1	7.69	0	3	
+Mail-In	1322	207	96	46.38	107	51.69	2	0.97	0	-	2	0.97	0	-	0	3	
+Provisional	1322	7	0	-	6	85.71	0	-	1	14.29	0	-	0	-	0	0	
+ROME BOROUGH	
+Normal	190	106	16	15.09	88	83.02	0	-	1	0.94	1	0.94	0	-	0	2	
+Absentee	190	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	190	18	5	27.78	13	72.22	0	-	0	-	0	-	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	484	67	13.84	402	83.06	10	2.07	2	0.41	3	0.62	0	-	0	8	
+Absentee	712	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	712	84	39	46.43	43	51.19	0	-	0	-	2	2.38	0	-	0	5	
+Provisional	712	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	245	98	40.00	140	57.14	1	0.41	4	1.63	2	0.82	0	-	0	5	
+Absentee	485	5	5	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	485	72	44	61.11	28	38.89	0	-	0	-	0	-	0	-	0	0	
+Provisional	485	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	890	341	38.31	517	58.09	18	2.02	11	1.24	2	0.22	1	0.11	0	13	
+Absentee	1563	17	12	70.59	4	23.53	1	5.88	0	-	0	-	0	-	0	3	
+Mail-In	1563	255	172	67.45	83	32.55	0	-	0	-	0	-	0	-	0	0	
+Provisional	1563	12	5	41.67	7	58.33	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	221	68	30.77	143	64.71	7	3.17	2	0.90	1	0.45	0	-	0	3	
+Absentee	356	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	356	35	20	57.14	14	40.00	0	-	1	2.86	0	-	0	-	0	1	
+Provisional	356	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	571	209	36.60	339	59.37	15	2.63	7	1.23	1	0.18	0	-	0	10	
+Absentee	908	9	6	66.67	3	33.33	0	-	0	-	0	-	0	-	0	2	
+Mail-In	908	105	69	65.71	35	33.33	0	-	1	0.95	0	-	0	-	0	1	
+Provisional	908	8	4	50.00	4	50.00	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	105	33	31.43	68	64.76	4	3.81	0	-	0	-	0	-	0	4	
+Absentee	194	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	194	17	10	58.82	5	29.41	1	5.88	1	5.88	0	-	0	-	0	0	
+Provisional	194	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	559	85	15.21	458	81.93	12	2.15	2	0.36	1	0.18	1	0.18	0	3	
+Absentee	868	6	0	-	5	83.33	0	-	1	16.67	0	-	0	-	0	0	
+Mail-In	868	125	44	35.20	79	63.20	1	0.80	0	-	1	0.80	0	-	0	1	
+Provisional	868	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	691	108	15.63	572	82.78	6	0.87	4	0.58	1	0.14	0	-	0	15	
+Absentee	1035	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	2	
+Mail-In	1035	139	57	41.01	77	55.40	4	2.88	0	-	1	0.72	0	-	0	3	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	-	0	-	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	538	79	14.68	445	82.71	7	1.30	5	0.93	2	0.37	0	-	0	11	
+Absentee	808	7	0	-	7	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	808	87	40	45.98	40	45.98	3	3.45	4	4.60	0	-	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	501	155	30.94	333	66.47	6	1.20	6	1.20	0	-	1	0.20	0	11	
+Absentee	813	6	1	16.67	4	66.67	0	-	0	-	1	16.67	0	-	0	0	
+Mail-In	813	116	73	62.93	42	36.21	0	-	1	0.86	0	-	0	-	0	0	
+Provisional	813	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	532	99	18.61	428	80.45	2	0.38	3	0.56	0	-	0	-	0	6	
+Absentee	797	6	3	50.00	3	50.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	797	121	54	44.63	65	53.72	0	-	1	0.83	1	0.83	0	-	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	262	64	24.43	188	71.76	7	2.67	1	0.38	2	0.76	0	-	0	3	
+Absentee	420	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	420	71	24	33.80	45	63.38	1	1.41	1	1.41	0	-	0	-	0	1	
+Provisional	420	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	198	29	14.65	166	83.84	1	0.51	1	0.51	1	0.51	0	-	0	1	
+Absentee	299	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	299	41	14	34.15	26	63.41	1	2.44	0	-	0	-	0	-	0	0	
+Provisional	299	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	86	18	20.93	65	75.58	2	2.33	0	-	0	-	1	1.16	0	0	
+Absentee	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	122	13	10	76.92	3	23.08	0	-	0	-	0	-	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	417	57	13.67	345	82.73	6	1.44	5	1.20	2	0.48	2	0.48	0	5	
+Absentee	629	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	629	107	34	31.78	70	65.42	1	0.93	0	-	2	1.87	0	-	0	1	
+Provisional	629	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	204	61	29.90	128	62.75	5	2.45	7	3.43	3	1.47	0	-	0	2	
+Absentee	368	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	368	48	18	37.50	30	62.50	0	-	0	-	0	-	0	-	0	0	
+Provisional	368	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	281	98	34.88	172	61.21	4	1.42	4	1.42	3	1.07	0	-	0	2	
+Absentee	540	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	540	82	34	41.46	48	58.54	0	-	0	-	0	-	0	-	0	0	
+Provisional	540	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty (CST)	Selker	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	452	142	31.42	294	65.04	12	2.65	3	0.66	1	0.22	0	-	0	5	
+Absentee	767	14	3	21.43	11	78.57	0	-	0	-	0	-	0	-	0	3	
+Mail-In	767	114	59	51.75	54	47.37	1	0.88	0	-	0	-	0	-	0	4	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	361	75	20.78	279	77.29	0	-	6	1.66	1	0.28	0	-	0	4	
+Absentee	631	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	631	112	49	43.75	62	55.36	0	-	0	-	1	0.89	0	-	0	0	
+Provisional	631	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	329	73	22.19	242	73.56	10	3.04	2	0.61	2	0.61	0	-	0	12	
+Absentee	657	9	3	33.33	5	55.56	0	-	1	11.11	0	-	0	-	0	0	
+Mail-In	657	172	87	50.58	79	45.93	4	2.33	1	0.58	1	0.58	0	-	0	4	
+Provisional	657	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+TROY BOROUGH	
+Normal	745	463	127	27.43	325	70.19	4	0.86	3	0.65	2	0.43	2	0.43	0	8	
+Absentee	745	5	5	100.00	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	745	82	42	51.22	38	46.34	2	2.44	0	-	0	-	0	-	0	0	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	702	126	17.95	562	80.06	11	1.57	1	0.14	2	0.28	0	-	0	11	
+Absentee	1120	8	5	62.50	3	37.50	0	-	0	-	0	-	0	-	0	2	
+Mail-In	1120	175	66	37.71	105	60.00	2	1.14	0	-	1	0.57	1	0.57	0	3	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	472	61	12.92	399	84.53	7	1.48	3	0.64	1	0.21	1	0.21	0	11	
+Absentee	687	6	5	83.33	1	16.67	0	-	0	-	0	-	0	-	0	1	
+Mail-In	687	84	23	27.38	60	71.43	0	-	1	1.19	0	-	0	-	0	0	
+Provisional	687	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	546	106	19.41	419	76.74	14	2.56	1	0.18	4	0.73	2	0.37	0	7	
+Absentee	833	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+Mail-In	833	94	38	40.43	51	54.26	3	3.19	0	-	2	2.13	0	-	0	1	
+Provisional	833	6	1	16.67	4	66.67	0	-	1	16.67	0	-	0	-	0	0	
+WARREN TOWNSHIP	
+Normal	711	454	61	13.44	380	83.70	8	1.76	3	0.66	1	0.22	1	0.22	0	10	
+Absentee	711	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	711	111	40	36.04	70	63.06	0	-	0	-	1	0.90	0	-	0	0	
+Provisional	711	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+UNITED STATES SENATOR	
+	Robert P.           Dave	
+	Reg. Voters	Total Votes	"Casey, Jr. (DEM)"	McCormick (REP)	John C. Thomas	(LIB)	Leila Hazou (GRN)	Marty Selker (CST)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	525	74	14.10	442	84.19	6	1.14	0	-	3	0.57	0	-	0	13	
+Absentee	807	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	807	116	41	35.34	70	60.34	3	2.59	1	0.86	1	0.86	0	-	0	0	
+Provisional	807	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	526	84	15.97	435	82.70	3	0.57	3	0.57	1	0.19	0	-	0	10	
+Absentee	780	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	780	112	45	40.18	65	58.04	0	-	2	1.79	0	-	0	-	0	0	
+Provisional	780	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	1	
+WINDHAM TOWNSHIP	
+Normal	567	370	67	18.11	292	78.92	8	2.16	1	0.27	2	0.54	0	-	0	9	
+Absentee	567	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	567	61	24	39.34	36	59.02	1	1.64	0	-	0	-	0	-	0	0	
+Provisional	567	8	1	12.50	7	87.50	0	-	0	-	0	-	0	-	0	0	
+WYALUSING BOROUGH	
+Normal	401	247	85	34.41	159	64.37	3	1.21	0	-	0	-	0	-	0	4	
+Absentee	401	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	401	49	25	51.02	22	44.90	1	2.04	1	2.04	0	-	0	-	0	3	
+Provisional	401	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	533	74	13.88	446	83.68	5	0.94	4	0.75	4	0.75	0	-	0	13	
+Absentee	828	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	828	127	51	40.16	74	58.27	1	0.79	0	-	0	-	1	0.79	0	1	
+Provisional	828	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+WYSOX TOWNSHIP	
+Normal	963	551	100	18.15	439	79.67	8	1.45	3	0.54	1	0.18	0	-	0	3	
+Absentee	963	14	8	57.14	6	42.86	0	-	0	-	0	-	0	-	0	3	
+Mail-In	963	183	68	37.16	110	60.11	2	1.09	2	1.09	1	0.55	0	-	0	2	
+Provisional	963	10	0	-	10	100.00	0	-	0	-	0	-	0	-	0	0	
+Total	
+Normal	39312	24580	5167	21.02	18726	76.18	396	1.61	154	0.63	117	0.48	20	0.08	0	405	
+Absentee	39312	321	120	37.38	193	60.12	2	0.62	3	0.93	2	0.62	1	0.31	0	50	
+Mail-In	39312	5764	2650	45.98	2989	51.86	63	1.09	35	0.61	25	0.43	2	0.03	0	63	
+Provisional	39312	269	70	26.02	191	71.00	2	0.74	5	1.86	0	-	1	0.37	1	5	
+Total	39312	30934	8007	25.88	22099	71.44	463	1.50	197	0.64	144	0.47	24	0.08	1	523	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	67	4	5.97	61	91.04	0	-	2	2.99	0	-	0	-	0	-	0	2	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	584	373	53	14.21	310	83.11	7	1.88	0	-	2	0.54	1	0.27	0	-	0	8	
+	584	10	2	20.00	8	80.00	0	-	0	-	0	-	0	-	0	-	0	2	
+	584	99	40	40.40	55	55.56	1	1.01	2	2.02	1	1.01	0	-	0	-	0	0	
+	584	7	1	14.29	6	85.71	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	100	9	9.00	90	90.00	0	-	0	-	1	1.00	0	-	0	-	0	4	
+	147	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	15	5	33.33	9	60.00	0	-	0	-	1	6.67	0	-	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+	693	458	71	15.50	368	80.35	6	1.31	5	1.09	5	1.09	1	0.22	2	0.44	0	8	
+	693	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	-	0	0	
+	693	124	50	40.32	74	59.68	0	-	0	-	0	-	0	-	0	-	0	1	
+	693	5	0	-	3	60.00	1	20.00	0	-	0	-	0	-	1	20.00	0	1	
+	417	254	74	29.13	165	64.96	8	3.15	3	1.18	4	1.57	0	-	0	-	0	6	
+	417	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+	417	57	32	56.14	24	42.11	0	-	1	1.75	0	-	0	-	0	-	0	4	
+	417	3	2	66.67	0	-	1	33.33	0	-	0	-	0	-	0	-	0	0	
+	395	220	82	37.27	127	57.73	4	1.82	3	1.36	2	0.91	2	0.91	0	-	0	11	
+	395	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	1	
+	395	53	31	58.49	22	41.51	0	-	0	-	0	-	0	-	0	-	0	2	
+	395	4	2	50.00	0	-	1	25.00	0	-	0	-	1	25.00	0	-	0	0	
+	554	337	90	26.71	229	67.95	12	3.56	2	0.59	3	0.89	1	0.30	0	-	0	7	
+	554	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	-	0	6	
+	554	70	42	60.00	28	40.00	0	-	0	-	0	-	0	-	0	-	0	1	
+	554	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	413	118	28.57	267	64.65	15	3.63	6	1.45	4	0.97	3	0.73	0	-	0	12	
+Absentee	648	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	5	
+Mail-In	648	83	45	54.22	35	42.17	1	1.20	0	-	2	2.41	0	-	0	-	0	3	
+Provisional	648	9	5	55.56	4	44.44	0	-	0	-	0	-	0	-	0	-	1	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	822	194	23.60	600	72.99	13	1.58	5	0.61	4	0.49	6	0.73	0	-	0	20	
+Absentee	1387	13	5	38.46	8	61.54	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	1387	235	104	44.26	125	53.19	2	0.85	3	1.28	1	0.43	0	-	0	-	0	1	
+Provisional	1387	16	3	18.75	13	81.25	0	-	0	-	0	-	0	-	0	-	0	0	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	964	265	27.49	666	69.09	9	0.93	16	1.66	6	0.62	2	0.21	0	-	0	27	
+Absentee	2028	14	3	21.43	11	78.57	0	-	0	-	0	-	0	-	0	-	0	15	
+Mail-In	2028	504	255	50.60	235	46.63	5	0.99	6	1.19	1	0.20	2	0.40	0	-	0	7	
+Provisional	2028	14	4	28.57	9	64.29	0	-	0	-	1	7.14	0	-	0	-	0	0	
+BURLINGTON BOROUGH	
+Normal	89	58	13	22.41	40	68.97	3	5.17	2	3.45	0	-	0	-	0	-	0	2	
+Absentee	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	89	11	4	36.36	6	54.55	0	-	1	9.09	0	-	0	-	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	341	41	12.02	292	85.63	3	0.88	2	0.59	3	0.88	0	-	0	-	0	10	
+Absentee	498	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	498	72	40	55.56	31	43.06	0	-	1	1.39	0	-	0	-	0	-	0	1	
+Provisional	498	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	218	38	17.43	173	79.36	1	0.46	2	0.92	1	0.46	3	1.38	0	-	0	1	
+Absentee	327	8	2	25.00	5	62.50	1	12.50	0	-	0	-	0	-	0	-	0	2	
+Mail-In	327	38	12	31.58	24	63.16	0	-	0	-	2	5.26	0	-	0	-	0	0	
+Provisional	327	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+CANTON BOROUGH	
+Normal	995	576	112	19.44	443	76.91	8	1.39	6	1.04	6	1.04	1	0.17	0	-	0	12	
+Absentee	995	14	2	14.29	12	85.71	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	995	110	50	45.45	58	52.73	1	0.91	0	-	0	-	1	0.91	0	-	0	2	
+Provisional	995	18	1	5.56	16	88.89	0	-	1	5.56	0	-	0	-	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	854	99	11.59	740	86.65	5	0.59	4	0.47	5	0.59	1	0.12	0	-	0	20	
+Absentee	1239	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	1239	157	41	26.11	113	71.97	1	0.64	0	-	1	0.64	1	0.64	0	-	0	0	
+Provisional	1239	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	-	0	2	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	492	89	18.09	392	79.67	7	1.42	2	0.41	1	0.20	1	0.20	0	-	0	13	
+Absentee	723	7	0	-	7	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	723	77	32	41.56	43	55.84	0	-	1	1.30	1	1.30	0	-	0	-	0	1	
+Provisional	723	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	-	0	1	
+FRANKLIN TOWNSHIP	
+Normal	397	271	26	9.59	234	86.35	5	1.85	1	0.37	3	1.11	2	0.74	0	-	0	8	
+Absentee	397	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	3	
+Mail-In	397	37	11	29.73	24	64.86	2	5.41	0	-	0	-	0	-	0	-	0	0	
+Provisional	397	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	404	47	11.63	351	86.88	5	1.24	1	0.25	0	-	0	-	0	-	0	9	
+Absentee	600	2	0	-	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	600	62	22	35.48	40	64.52	0	-	0	-	0	-	0	-	0	-	0	1	
+Provisional	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	347	34	9.80	305	87.90	1	0.29	3	0.86	3	0.86	1	0.29	0	-	0	8	
+Absentee	496	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	496	65	20	30.77	41	63.08	2	3.08	0	-	1	1.54	1	1.54	0	-	0	0	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	119	23	19.33	90	75.63	1	0.84	1	0.84	3	2.52	1	0.84	0	-	0	6	
+Absentee	163	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	163	17	6	35.29	11	64.71	0	-	0	-	0	-	0	-	0	-	0	0	
+Provisional	163	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	308	53	17.21	248	80.52	5	1.62	0	-	1	0.32	0	-	1	0.32	0	10	
+Absentee	440	6	1	16.67	4	66.67	1	16.67	0	-	0	-	0	-	0	-	0	2	
+Mail-In	440	55	20	36.36	35	63.64	0	-	0	-	0	-	0	-	0	-	0	0	
+Provisional	440	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	627	80	12.76	525	83.73	10	1.59	4	0.64	5	0.80	2	0.32	1	0.16	0	16	
+Absentee	944	11	4	36.36	7	63.64	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	944	115	36	31.30	74	64.35	0	-	1	0.87	2	1.74	2	1.74	0	-	0	5	
+Provisional	944	3	0	-	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	186	38	20.43	132	70.97	10	5.38	3	1.61	3	1.61	0	-	0	-	0	2	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	304	64	35	54.69	25	39.06	2	3.12	1	1.56	1	1.56	0	-	0	-	0	0	
+Provisional	304	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	436	70	16.06	350	80.28	5	1.15	7	1.61	4	0.92	0	-	0	-	0	14	
+Absentee	718	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	718	115	30	26.09	83	72.17	2	1.74	0	-	0	-	0	-	0	-	0	2	
+Provisional	718	6	2	33.33	3	50.00	0	-	0	-	1	16.67	0	-	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	100	20	20.00	77	77.00	2	2.00	1	1.00	0	-	0	-	0	-	0	2	
+Absentee	148	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	148	15	6	40.00	9	60.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	539	76	14.10	452	83.86	2	0.37	4	0.74	3	0.56	2	0.37	0	-	0	8	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	782	99	40	40.40	57	57.58	1	1.01	0	-	1	1.01	0	-	0	-	0	1	
+Provisional	782	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	129	20	15.50	106	82.17	1	0.78	1	0.78	1	0.78	0	-	0	-	0	2	
+Absentee	171	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	171	13	3	23.08	9	69.23	0	-	0	-	1	7.69	0	-	0	-	0	2	
+Provisional	171	2	1	50.00	0	-	1	50.00	0	-	0	-	0	-	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	280	51	18.21	219	78.21	7	2.50	1	0.36	1	0.36	1	0.36	0	-	0	12	
+Absentee	404	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	404	45	12	26.67	31	68.89	0	-	0	-	0	-	2	4.44	0	-	0	1	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	768	102	13.28	638	83.07	14	1.82	7	0.91	4	0.52	2	0.26	1	0.13	0	18	
+Absentee	1322	12	1	8.33	10	83.33	1	8.33	0	-	0	-	0	-	0	-	0	4	
+Mail-In	1322	207	89	43.00	114	55.07	0	-	1	0.48	3	1.45	0	-	0	-	0	3	
+Provisional	1322	7	2	28.57	4	57.14	0	-	1	14.29	0	-	0	-	0	-	0	0	
+ROME BOROUGH	
+Normal	190	101	16	15.84	82	81.19	1	0.99	0	-	2	1.98	0	-	0	-	0	7	
+Absentee	190	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	190	18	4	22.22	12	66.67	0	-	0	-	2	11.11	0	-	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	482	53	11.00	414	85.89	10	2.07	2	0.41	2	0.41	1	0.21	0	-	0	10	
+Absentee	712	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	712	86	36	41.86	48	55.81	0	-	0	-	2	2.33	0	-	0	-	0	3	
+Provisional	712	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	242	95	39.26	134	55.37	2	0.83	4	1.65	3	1.24	2	0.83	2	0.83	0	8	
+Absentee	485	5	5	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	485	72	45	62.50	27	37.50	0	-	0	-	0	-	0	-	0	-	0	0	
+Provisional	485	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	877	313	35.69	516	58.84	23	2.62	13	1.48	5	0.57	6	0.68	1	0.11	0	26	
+Absentee	1563	14	9	64.29	5	35.71	0	-	0	-	0	-	0	-	0	-	0	6	
+Mail-In	1563	252	157	62.30	89	35.32	4	1.59	0	-	0	-	2	0.79	0	-	0	3	
+Provisional	1563	12	5	41.67	7	58.33	0	-	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	219	60	27.40	145	66.21	8	3.65	6	2.74	0	-	0	-	0	-	0	5	
+Absentee	356	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	356	36	20	55.56	15	41.67	0	-	1	2.78	0	-	0	-	0	-	0	0	
+Provisional	356	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	564	185	32.80	354	62.77	11	1.95	7	1.24	4	0.71	1	0.18	2	0.35	0	17	
+Absentee	908	7	4	57.14	3	42.86	0	-	0	-	0	-	0	-	0	-	0	4	
+Mail-In	908	104	67	64.42	35	33.65	1	0.96	1	0.96	0	-	0	-	0	-	0	2	
+Provisional	908	8	4	50.00	4	50.00	0	-	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	103	29	28.16	69	66.99	2	1.94	3	2.91	0	-	0	-	0	-	0	6	
+Absentee	194	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	194	17	10	58.82	6	35.29	0	-	1	5.88	0	-	0	-	0	-	0	0	
+Provisional	194	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	552	78	14.13	462	83.70	7	1.27	2	0.36	2	0.36	0	-	1	0.18	0	10	
+Absentee	868	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	868	124	42	33.87	80	64.52	0	-	1	0.81	1	0.81	0	-	0	-	0	2	
+Provisional	868	2	0	-	1	50.00	0	-	0	-	0	-	0	-	1	50.00	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	688	97	14.10	575	83.58	5	0.73	4	0.58	5	0.73	1	0.15	1	0.15	0	18	
+Absentee	1035	5	1	20.00	3	60.00	1	20.00	0	-	0	-	0	-	0	-	0	3	
+Mail-In	1035	139	54	38.85	84	60.43	0	-	0	-	1	0.72	0	-	0	-	0	3	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	-	0	-	0	-	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	528	68	12.88	439	83.14	8	1.52	6	1.14	4	0.76	3	0.57	0	-	0	21	
+Absentee	808	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	808	87	37	42.53	43	49.43	6	6.90	1	1.15	0	-	0	-	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	495	147	29.70	323	65.25	15	3.03	6	1.21	2	0.40	1	0.20	1	0.20	0	17	
+Absentee	813	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	813	112	66	58.93	45	40.18	1	0.89	0	-	0	-	0	-	0	-	0	4	
+Provisional	813	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	526	88	16.73	433	82.32	3	0.57	0	-	2	0.38	0	-	0	-	0	12	
+Absentee	797	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	797	121	45	37.19	71	58.68	1	0.83	2	1.65	1	0.83	1	0.83	0	-	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	259	53	20.46	198	76.45	2	0.77	4	1.54	2	0.77	0	-	0	-	0	6	
+Absentee	420	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	420	70	23	32.86	45	64.29	1	1.43	0	-	1	1.43	0	-	0	-	0	2	
+Provisional	420	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	198	24	12.12	168	84.85	2	1.01	3	1.52	1	0.51	0	-	0	-	0	1	
+Absentee	299	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	299	41	11	26.83	27	65.85	2	4.88	0	-	1	2.44	0	-	0	-	0	0	
+Provisional	299	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	83	15	18.07	65	78.31	2	2.41	0	-	0	-	0	-	1	1.20	0	3	
+Absentee	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	122	13	10	76.92	3	23.08	0	-	0	-	0	-	0	-	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	414	49	11.84	353	85.27	6	1.45	4	0.97	2	0.48	0	-	0	-	0	8	
+Absentee	629	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	629	108	30	27.78	72	66.67	1	0.93	1	0.93	1	0.93	1	0.93	2	1.85	0	0	
+Provisional	629	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	202	54	26.73	136	67.33	3	1.49	6	2.97	3	1.49	0	-	0	-	0	4	
+Absentee	368	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	368	48	17	35.42	31	64.58	0	-	0	-	0	-	0	-	0	-	0	0	
+Provisional	368	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	279	86	30.82	179	64.16	5	1.79	4	1.43	4	1.43	1	0.36	0	-	0	4	
+Absentee	540	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	540	82	31	37.80	49	59.76	2	2.44	0	-	0	-	0	-	0	-	0	0	
+Provisional	540	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin (CST)	L.	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	444	125	28.15	297	66.89	15	3.38	1	0.23	2	0.45	2	0.45	2	0.45	0	13	
+Absentee	767	12	1	8.33	11	91.67	0	-	0	-	0	-	0	-	0	-	0	5	
+Mail-In	767	110	53	48.18	55	50.00	0	-	2	1.82	0	-	0	-	0	-	0	8	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	355	74	20.85	269	75.77	5	1.41	5	1.41	1	0.28	1	0.28	0	-	0	10	
+Absentee	631	2	0	-	1	50.00	0	-	0	-	0	-	1	50.00	0	-	0	0	
+Mail-In	631	111	45	40.54	64	57.66	0	-	0	-	2	1.80	0	-	0	-	0	1	
+Provisional	631	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	330	68	20.61	251	76.06	8	2.42	2	0.61	0	-	1	0.30	0	-	0	11	
+Absentee	657	9	2	22.22	4	44.44	1	11.11	1	11.11	0	-	1	11.11	0	-	0	0	
+Mail-In	657	171	79	46.20	85	49.71	3	1.75	1	0.58	1	0.58	2	1.17	0	-	0	5	
+Provisional	657	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+TROY BOROUGH	
+Normal	745	457	114	24.95	324	70.90	7	1.53	5	1.09	3	0.66	2	0.44	2	0.44	0	14	
+Absentee	745	0	0	-	0	-	0	-	0	-	0	-	0	-	0	-	0	7	
+Mail-In	745	82	41	50.00	39	47.56	2	2.44	0	-	0	-	0	-	0	-	0	0	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	695	100	14.39	574	82.59	8	1.15	3	0.43	4	0.58	5	0.72	1	0.14	0	18	
+Absentee	1120	7	3	42.86	4	57.14	0	-	0	-	0	-	0	-	0	-	0	3	
+Mail-In	1120	174	58	33.33	114	65.52	1	0.57	0	-	1	0.57	0	-	0	-	0	4	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	472	56	11.86	399	84.53	9	1.91	5	1.06	1	0.21	1	0.21	1	0.21	0	11	
+Absentee	687	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	-	0	4	
+Mail-In	687	82	19	23.17	61	74.39	1	1.22	0	-	0	-	0	-	1	1.22	0	2	
+Provisional	687	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	533	82	15.38	430	80.68	8	1.50	1	0.19	9	1.69	2	0.38	1	0.19	0	20	
+Absentee	833	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	833	92	33	35.87	53	57.61	2	2.17	2	2.17	1	1.09	1	1.09	0	-	1	2	
+Provisional	833	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	-	0	1	
+WARREN TOWNSHIP	
+Normal	711	455	54	11.87	386	84.84	8	1.76	4	0.88	2	0.44	0	-	1	0.22	0	9	
+Absentee	711	4	0	-	3	75.00	1	25.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	711	107	34	31.78	71	66.36	0	-	0	-	2	1.87	0	-	0	-	0	4	
+Provisional	711	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+ATTORNEY GENERAL Four Year Term	
+	Eugene	
+	Reg. Voters	Total Votes	DePasquale (DEM)	Dave Sunday (REP)	Robert Cowburn	(LIB)	Richard L. Weiss  (GRN)	Justin L. (CST)	Magill	Eric L. Settle (FWD)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	520	58	11.15	452	86.92	4	0.77	2	0.38	4	0.77	0	-	0	-	0	18	
+Absentee	807	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	807	115	40	34.78	72	62.61	2	1.74	1	0.87	0	-	0	-	0	-	0	1	
+Provisional	807	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	527	74	14.04	444	84.25	5	0.95	2	0.38	2	0.38	0	-	0	-	0	9	
+Absentee	780	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	780	110	42	38.18	64	58.18	1	0.91	2	1.82	1	0.91	0	-	0	-	0	2	
+Provisional	780	7	1	14.29	5	71.43	0	-	0	-	0	-	1	14.29	0	-	0	1	
+WINDHAM TOWNSHIP	
+Normal	567	369	56	15.18	296	80.22	7	1.90	5	1.36	4	1.08	1	0.27	0	-	0	10	
+Absentee	567	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	567	60	21	35.00	38	63.33	0	-	0	-	1	1.67	0	-	0	-	0	1	
+Provisional	567	8	1	12.50	7	87.50	0	-	0	-	0	-	0	-	0	-	0	0	
+WYALUSING BOROUGH	
+Normal	401	244	73	29.92	162	66.39	5	2.05	4	1.64	0	-	0	-	0	-	0	7	
+Absentee	401	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	401	46	21	45.65	21	45.65	2	4.35	0	-	2	4.35	0	-	0	-	0	6	
+Provisional	401	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	530	64	12.08	450	84.91	7	1.32	5	0.94	3	0.57	0	-	1	0.19	0	16	
+Absentee	828	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	828	128	46	35.94	78	60.94	2	1.56	0	-	0	-	1	0.78	1	0.78	0	0	
+Provisional	828	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+WYSOX TOWNSHIP	
+Normal	963	549	80	14.57	449	81.79	12	2.19	3	0.55	3	0.55	2	0.36	0	-	0	5	
+Absentee	963	10	5	50.00	5	50.00	0	-	0	-	0	-	0	-	0	-	0	7	
+Mail-In	963	179	55	30.73	115	64.25	3	1.68	3	1.68	3	1.68	0	-	0	-	0	6	
+Provisional	963	10	0	-	10	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Total	
+Normal	39312	24353	4580	18.81	18918	77.68	392	1.61	215	0.88	159	0.65	66	0.27	23	0.09	0	632	
+Absentee	39312	273	73	26.74	190	69.60	7	2.56	1	0.37	0	-	2	0.73	0	-	0	98	
+Mail-In	39312	5721	2408	42.09	3154	55.13	58	1.01	37	0.65	43	0.75	17	0.30	4	0.07	1	105	
+Provisional	39312	265	61	23.02	191	72.08	5	1.89	2	0.75	2	0.75	2	0.75	2	0.75	1	9	
+Total	39312	30612	7122	23.27	22453	73.35	462	1.51	255	0.83	204	0.67	87	0.28	29	0.09	2	844	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	67	5	7.46	60	89.55	2	2.99	0	-	0	-	0	-	0	2	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	-	0	-	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	584	371	39	10.51	317	85.44	13	3.50	1	0.27	1	0.27	0	-	0	10	
+	584	10	2	20.00	8	80.00	0	-	0	-	0	-	0	-	0	2	
+	584	97	39	40.21	54	55.67	1	1.03	1	1.03	2	2.06	0	-	0	2	
+	584	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	0	
+	147	99	5	5.05	93	93.94	1	1.01	0	-	0	-	0	-	0	5	
+	147	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	15	5	33.33	10	66.67	0	-	0	-	0	-	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+	693	455	70	15.38	363	79.78	16	3.52	0	-	5	1.10	1	0.22	0	11	
+	693	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+	693	121	46	38.02	75	61.98	0	-	0	-	0	-	0	-	0	4	
+	693	5	0	-	3	60.00	1	20.00	0	-	0	-	1	20.00	0	1	
+	417	255	77	30.20	167	65.49	6	2.35	2	0.78	3	1.18	0	-	0	5	
+	417	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+	417	57	35	61.40	21	36.84	1	1.75	0	-	0	-	0	-	0	4	
+	417	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+	395	216	77	35.65	128	59.26	4	1.85	1	0.46	6	2.78	0	-	0	15	
+	395	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	2	
+	395	54	33	61.11	18	33.33	1	1.85	2	3.70	0	-	0	-	0	1	
+	395	4	2	50.00	0	-	0	-	1	25.00	1	25.00	0	-	0	0	
+	554	330	88	26.67	223	67.58	9	2.73	2	0.61	8	2.42	0	-	0	14	
+	554	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	6	
+	554	70	40	57.14	28	40.00	1	1.43	0	-	1	1.43	0	-	0	1	
+	554	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. Anton (ASP)	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	411	116	28.22	270	65.69	11	2.68	2	0.49	11	2.68	1	0.24	0	14	
+Absentee	648	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	5	
+Mail-In	648	83	44	53.01	35	42.17	2	2.41	0	-	2	2.41	0	-	0	3	
+Provisional	648	9	5	55.56	4	44.44	0	-	0	-	0	-	0	-	1	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	816	183	22.43	599	73.41	15	1.84	4	0.49	14	1.72	1	0.12	0	26	
+Absentee	1387	13	5	38.46	8	61.54	0	-	0	-	0	-	0	-	0	2	
+Mail-In	1387	235	111	47.23	116	49.36	6	2.55	1	0.43	1	0.43	0	-	0	1	
+Provisional	1387	16	3	18.75	13	81.25	0	-	0	-	0	-	0	-	0	0	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	957	259	27.06	661	69.07	16	1.67	10	1.04	10	1.04	1	0.10	0	34	
+Absentee	2028	16	2	12.50	13	81.25	1	6.25	0	-	0	-	0	-	0	13	
+Mail-In	2028	503	250	49.70	243	48.31	7	1.39	2	0.40	1	0.20	0	-	0	8	
+Provisional	2028	14	4	28.57	10	71.43	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON BOROUGH	
+Normal	89	59	10	16.95	45	76.27	3	5.08	0	-	1	1.69	0	-	0	1	
+Absentee	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	89	11	5	45.45	6	54.55	0	-	0	-	0	-	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	337	36	10.68	281	83.38	9	2.67	4	1.19	7	2.08	0	-	0	14	
+Absentee	498	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	498	72	36	50.00	35	48.61	0	-	1	1.39	0	-	0	-	0	1	
+Provisional	498	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	217	32	14.75	179	82.49	3	1.38	0	-	3	1.38	0	-	0	2	
+Absentee	327	8	2	25.00	4	50.00	1	12.50	1	12.50	0	-	0	-	0	2	
+Mail-In	327	38	10	26.32	25	65.79	1	2.63	1	2.63	1	2.63	0	-	0	0	
+Provisional	327	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	1	
+CANTON BOROUGH	
+Normal	995	570	109	19.12	441	77.37	8	1.40	0	-	12	2.11	0	-	0	18	
+Absentee	995	14	2	14.29	12	85.71	0	-	0	-	0	-	0	-	0	0	
+Mail-In	995	109	53	48.62	54	49.54	1	0.92	0	-	1	0.92	0	-	0	3	
+Provisional	995	18	1	5.56	16	88.89	1	5.56	0	-	0	-	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	851	87	10.22	748	87.90	10	1.18	3	0.35	3	0.35	0	-	0	23	
+Absentee	1239	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	1239	156	40	25.64	115	73.72	1	0.64	0	-	0	-	0	-	0	1	
+Provisional	1239	5	3	60.00	2	40.00	0	-	0	-	0	-	0	-	0	2	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	487	87	17.86	384	78.85	10	2.05	0	-	6	1.23	0	-	0	18	
+Absentee	723	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	723	78	28	35.90	48	61.54	1	1.28	1	1.28	0	-	0	-	0	0	
+Provisional	723	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	1	
+FRANKLIN TOWNSHIP	
+Normal	397	271	24	8.86	232	85.61	6	2.21	2	0.74	7	2.58	0	-	0	8	
+Absentee	397	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	3	
+Mail-In	397	35	11	31.43	22	62.86	2	5.71	0	-	0	-	0	-	0	2	
+Provisional	397	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	404	46	11.39	344	85.15	5	1.24	2	0.50	7	1.73	0	-	0	9	
+Absentee	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	600	61	18	29.51	42	68.85	1	1.64	0	-	0	-	0	-	0	2	
+Provisional	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	344	25	7.27	313	90.99	2	0.58	1	0.29	3	0.87	0	-	0	11	
+Absentee	496	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	496	65	18	27.69	46	70.77	0	-	0	-	1	1.54	0	-	0	0	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	117	22	18.80	92	78.63	2	1.71	1	0.85	0	-	0	-	0	8	
+Absentee	163	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	163	14	3	21.43	11	78.57	0	-	0	-	0	-	0	-	0	3	
+Provisional	163	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	305	43	14.10	253	82.95	5	1.64	2	0.66	1	0.33	1	0.33	0	13	
+Absentee	440	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	2	
+Mail-In	440	55	18	32.73	37	67.27	0	-	0	-	0	-	0	-	0	0	
+Provisional	440	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	620	72	11.61	522	84.19	14	2.26	3	0.48	8	1.29	1	0.16	0	23	
+Absentee	944	11	4	36.36	6	54.55	1	9.09	0	-	0	-	0	-	0	2	
+Mail-In	944	115	36	31.30	76	66.09	1	0.87	0	-	2	1.74	0	-	0	5	
+Provisional	944	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	181	30	16.57	136	75.14	11	6.08	0	-	4	2.21	0	-	0	7	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	304	64	37	57.81	26	40.62	0	-	0	-	1	1.56	0	-	0	0	
+Provisional	304	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	427	67	15.69	338	79.16	14	3.28	3	0.70	5	1.17	0	-	0	23	
+Absentee	718	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	718	115	27	23.48	83	72.17	4	3.48	1	0.87	0	-	0	-	0	2	
+Provisional	718	6	2	33.33	3	50.00	1	16.67	0	-	0	-	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	99	19	19.19	74	74.75	4	4.04	0	-	2	2.02	0	-	0	3	
+Absentee	148	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	148	15	6	40.00	7	46.67	2	13.33	0	-	0	-	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	534	68	12.73	457	85.58	6	1.12	0	-	3	0.56	0	-	0	13	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	782	99	39	39.39	59	59.60	0	-	0	-	1	1.01	0	-	0	1	
+Provisional	782	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	130	16	12.31	111	85.38	1	0.77	1	0.77	1	0.77	0	-	0	1	
+Absentee	171	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	171	13	2	15.38	9	69.23	1	7.69	0	-	1	7.69	0	-	0	2	
+Provisional	171	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	280	45	16.07	219	78.21	6	2.14	3	1.07	7	2.50	0	-	0	12	
+Absentee	404	0	0	-	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	404	45	13	28.89	31	68.89	0	-	0	-	1	2.22	0	-	0	1	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	759	96	12.65	638	84.06	16	2.11	1	0.13	7	0.92	1	0.13	0	27	
+Absentee	1322	11	0	-	10	90.91	1	9.09	0	-	0	-	0	-	0	5	
+Mail-In	1322	207	83	40.10	113	54.59	5	2.42	0	-	6	2.90	0	-	0	3	
+Provisional	1322	7	1	14.29	4	57.14	1	14.29	1	14.29	0	-	0	-	0	0	
+ROME BOROUGH	
+Normal	190	104	15	14.42	87	83.65	1	0.96	1	0.96	0	-	0	-	0	4	
+Absentee	190	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	190	18	4	22.22	14	77.78	0	-	0	-	0	-	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	475	51	10.74	410	86.32	10	2.11	3	0.63	1	0.21	0	-	0	17	
+Absentee	712	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	712	83	38	45.78	42	50.60	1	1.20	0	-	1	1.20	1	1.20	0	6	
+Provisional	712	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	242	91	37.60	142	58.68	3	1.24	3	1.24	3	1.24	0	-	0	8	
+Absentee	485	5	3	60.00	1	20.00	1	20.00	0	-	0	-	0	-	0	0	
+Mail-In	485	71	44	61.97	27	38.03	0	-	0	-	0	-	0	-	0	1	
+Provisional	485	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	874	308	35.24	519	59.38	24	2.75	7	0.80	14	1.60	2	0.23	0	29	
+Absentee	1563	14	8	57.14	6	42.86	0	-	0	-	0	-	0	-	0	6	
+Mail-In	1563	251	159	63.35	86	34.26	4	1.59	0	-	1	0.40	1	0.40	0	4	
+Provisional	1563	12	5	41.67	7	58.33	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	217	59	27.19	142	65.44	10	4.61	0	-	6	2.76	0	-	0	7	
+Absentee	356	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	356	36	21	58.33	15	41.67	0	-	0	-	0	-	0	-	0	0	
+Provisional	356	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	561	181	32.26	350	62.39	18	3.21	3	0.53	7	1.25	2	0.36	0	20	
+Absentee	908	7	4	57.14	3	42.86	0	-	0	-	0	-	0	-	0	4	
+Mail-In	908	104	66	63.46	36	34.62	2	1.92	0	-	0	-	0	-	0	2	
+Provisional	908	8	5	62.50	3	37.50	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	102	29	28.43	70	68.63	2	1.96	0	-	1	0.98	0	-	0	7	
+Absentee	194	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	194	17	9	52.94	6	35.29	0	-	0	-	1	5.88	1	5.88	0	0	
+Provisional	194	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	1	
+SHESHEQUIN TOWNSHIP	
+Normal	868	548	78	14.23	452	82.48	13	2.37	0	-	4	0.73	1	0.18	0	14	
+Absentee	868	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	868	124	42	33.87	81	65.32	0	-	0	-	1	0.81	0	-	0	2	
+Provisional	868	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	685	88	12.85	574	83.80	10	1.46	4	0.58	8	1.17	1	0.15	0	21	
+Absentee	1035	5	1	20.00	3	60.00	1	20.00	0	-	0	-	0	-	0	3	
+Mail-In	1035	139	52	37.41	84	60.43	0	-	0	-	3	2.16	0	-	0	3	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	-	0	-	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	531	77	14.50	434	81.73	4	0.75	1	0.19	14	2.64	1	0.19	0	18	
+Absentee	808	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	808	87	41	47.13	43	49.43	0	-	0	-	3	3.45	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	489	141	28.83	326	66.67	13	2.66	2	0.41	6	1.23	1	0.20	0	23	
+Absentee	813	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	813	113	64	56.64	45	39.82	3	2.65	0	-	1	0.88	0	-	0	3	
+Provisional	813	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	516	79	15.31	422	81.78	7	1.36	2	0.39	6	1.16	0	-	0	22	
+Absentee	797	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	797	121	52	42.98	64	52.89	3	2.48	0	-	2	1.65	0	-	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	255	49	19.22	197	77.25	5	1.96	0	-	4	1.57	0	-	0	10	
+Absentee	420	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	420	71	22	30.99	46	64.79	2	2.82	0	-	1	1.41	0	-	0	1	
+Provisional	420	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	197	25	12.69	169	85.79	0	-	0	-	3	1.52	0	-	0	2	
+Absentee	299	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	299	39	11	28.21	25	64.10	2	5.13	0	-	1	2.56	0	-	0	2	
+Provisional	299	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	82	13	15.85	65	79.27	1	1.22	1	1.22	1	1.22	1	1.22	0	4	
+Absentee	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	122	13	8	61.54	4	30.77	0	-	0	-	1	7.69	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	412	44	10.68	356	86.41	7	1.70	2	0.49	3	0.73	0	-	0	10	
+Absentee	629	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	629	108	29	26.85	73	67.59	2	1.85	0	-	4	3.70	0	-	0	0	
+Provisional	629	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	200	48	24.00	135	67.50	7	3.50	4	2.00	6	3.00	0	-	0	6	
+Absentee	368	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	368	48	18	37.50	30	62.50	0	-	0	-	0	-	0	-	0	0	
+Provisional	368	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	277	89	32.13	173	62.45	8	2.89	0	-	7	2.53	0	-	0	6	
+Absentee	540	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	540	81	31	38.27	49	60.49	0	-	0	-	1	1.23	0	-	0	1	
+Provisional	540	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. (ASP)	Anton	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	447	126	28.19	296	66.22	19	4.25	0	-	6	1.34	0	-	0	10	
+Absentee	767	12	1	8.33	11	91.67	0	-	0	-	0	-	0	-	0	5	
+Mail-In	767	109	49	44.95	59	54.13	0	-	0	-	0	-	1	0.92	0	9	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	353	65	18.41	277	78.47	3	0.85	1	0.28	7	1.98	0	-	0	12	
+Absentee	631	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	631	111	46	41.44	63	56.76	0	-	0	-	2	1.80	0	-	0	1	
+Provisional	631	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	328	60	18.29	248	75.61	14	4.27	0	-	6	1.83	0	-	0	13	
+Absentee	657	9	3	33.33	4	44.44	0	-	0	-	2	22.22	0	-	0	0	
+Mail-In	657	170	76	44.71	88	51.76	1	0.59	1	0.59	3	1.76	1	0.59	0	6	
+Provisional	657	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+TROY BOROUGH	
+Normal	745	454	107	23.57	329	72.47	8	1.76	0	-	9	1.98	1	0.22	0	17	
+Absentee	745	0	0	-	0	-	0	-	0	-	0	-	0	-	0	7	
+Mail-In	745	81	38	46.91	41	50.62	1	1.23	0	-	0	-	1	1.23	0	1	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	688	96	13.95	570	82.85	11	1.60	1	0.15	10	1.45	0	-	0	25	
+Absentee	1120	7	4	57.14	3	42.86	0	-	0	-	0	-	0	-	0	3	
+Mail-In	1120	174	52	29.89	117	67.24	1	0.57	0	-	3	1.72	1	0.57	0	4	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	466	50	10.73	399	85.62	12	2.58	1	0.21	3	0.64	1	0.21	0	17	
+Absentee	687	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	4	
+Mail-In	687	82	19	23.17	62	75.61	0	-	1	1.22	0	-	0	-	0	2	
+Provisional	687	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	521	73	14.01	425	81.57	13	2.50	1	0.19	8	1.54	1	0.19	0	32	
+Absentee	833	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+Mail-In	833	94	37	39.36	52	55.32	5	5.32	0	-	0	-	0	-	0	1	
+Provisional	833	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+WARREN TOWNSHIP	
+Normal	711	451	50	11.09	381	84.48	6	1.33	3	0.67	10	2.22	1	0.22	0	13	
+Absentee	711	4	0	-	3	75.00	1	25.00	0	-	0	-	0	-	0	1	
+Mail-In	711	106	35	33.02	67	63.21	1	0.94	2	1.89	1	0.94	0	-	0	5	
+Provisional	711	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+AUDITOR GENERAL Four Year Term	
+	Malcolm	
+	Reg. Voters	Total Votes	Kenyatta (DEM)	Tim DeFoor (REP)	Reece Smith (LIB)	Eric K. Anton (ASP)	Bob Goodrich (CST)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	522	59	11.30	453	86.78	5	0.96	2	0.38	3	0.57	0	-	0	16	
+Absentee	807	5	1	20.00	4	80.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	807	115	38	33.04	70	60.87	6	5.22	0	-	1	0.87	0	-	0	1	
+Provisional	807	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	519	63	12.14	445	85.74	8	1.54	0	-	3	0.58	0	-	0	17	
+Absentee	780	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	780	108	38	35.19	67	62.04	2	1.85	0	-	1	0.93	0	-	0	4	
+Provisional	780	6	0	-	5	83.33	0	-	0	-	1	16.67	0	-	0	2	
+WINDHAM TOWNSHIP	
+Normal	567	365	53	14.52	293	80.27	9	2.47	1	0.27	9	2.47	0	-	0	14	
+Absentee	567	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	567	61	18	29.51	38	62.30	2	3.28	0	-	3	4.92	0	-	0	0	
+Provisional	567	7	1	14.29	6	85.71	0	-	0	-	0	-	0	-	0	1	
+WYALUSING BOROUGH	
+Normal	401	245	72	29.39	161	65.71	9	3.67	0	-	3	1.22	0	-	0	6	
+Absentee	401	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	401	45	20	44.44	19	42.22	3	6.67	0	-	3	6.67	0	-	0	7	
+Provisional	401	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	525	53	10.10	458	87.24	8	1.52	0	-	5	0.95	1	0.19	0	21	
+Absentee	828	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	828	128	45	35.16	79	61.72	2	1.56	0	-	1	0.78	1	0.78	0	0	
+Provisional	828	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	1	
+WYSOX TOWNSHIP	
+Normal	963	537	87	16.20	432	80.45	10	1.86	0	-	8	1.49	0	-	0	17	
+Absentee	963	10	5	50.00	5	50.00	0	-	0	-	0	-	0	-	0	7	
+Mail-In	963	176	53	30.11	118	67.05	2	1.14	0	-	3	1.70	0	-	0	9	
+Provisional	963	10	0	-	10	100.00	0	-	0	-	0	-	0	-	0	0	
+Total	
+Normal	39312	24157	4332	17.93	18878	78.15	506	2.09	91	0.38	329	1.36	21	0.09	0	828	
+Absentee	39312	271	70	25.83	191	70.48	7	2.58	1	0.37	2	0.74	0	-	0	100	
+Mail-In	39312	5696	2364	41.50	3162	55.51	84	1.47	14	0.25	64	1.12	8	0.14	0	131	
+Provisional	39312	263	60	22.81	194	73.76	4	1.52	2	0.76	2	0.76	1	0.38	1	11	
+Total	39312	30387	6826	22.46	22425	73.80	601	1.98	108	0.36	397	1.31	30	0.10	1	1070	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	68	1	1.47	64	94.12	1	1.47	0	-	2	2.94	0	-	0	1	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	-	0	-	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	584	374	34	9.09	331	88.50	5	1.34	3	0.80	1	0.27	0	-	0	7	
+	584	10	2	20.00	8	80.00	0	-	0	-	0	-	0	-	0	2	
+	584	98	39	39.80	57	58.16	1	1.02	0	-	1	1.02	0	-	0	1	
+	584	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	1	
+	147	102	7	6.86	94	92.16	0	-	1	0.98	0	-	0	-	0	2	
+	147	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+	147	15	5	33.33	10	66.67	0	-	0	-	0	-	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+	693	458	47	10.26	398	86.90	8	1.75	3	0.66	1	0.22	1	0.22	0	8	
+	693	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+	693	123	41	33.33	82	66.67	0	-	0	-	0	-	0	-	0	2	
+	693	3	0	-	2	66.67	0	-	0	-	0	-	1	33.33	0	3	
+	417	258	66	25.58	183	70.93	6	2.33	3	1.16	0	-	0	-	0	2	
+	417	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+	417	58	33	56.90	24	41.38	1	1.72	0	-	0	-	0	-	0	3	
+	417	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	0	
+	395	224	71	31.70	145	64.73	3	1.34	4	1.79	1	0.45	0	-	0	7	
+	395	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	2	
+	395	53	29	54.72	24	45.28	0	-	0	-	0	-	0	-	0	2	
+	395	4	2	50.00	0	-	0	-	1	25.00	1	25.00	0	-	0	0	
+	554	332	69	20.78	250	75.30	7	2.11	4	1.20	2	0.60	0	-	0	12	
+	554	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	6	
+	554	70	37	52.86	32	45.71	0	-	1	1.43	0	-	0	-	0	1	
+	554	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	416	93	22.36	305	73.32	11	2.64	3	0.72	2	0.48	2	0.48	0	9	
+Absentee	648	2	1	50.00	1	50.00	0	-	0	-	0	-	0	-	0	4	
+Mail-In	648	84	36	42.86	44	52.38	1	1.19	3	3.57	0	-	0	-	0	2	
+Provisional	648	10	5	50.00	4	40.00	1	10.00	0	-	0	-	0	-	0	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	830	149	17.95	665	80.12	10	1.20	2	0.24	4	0.48	0	-	0	12	
+Absentee	1387	12	5	41.67	7	58.33	0	-	0	-	0	-	0	-	0	3	
+Mail-In	1387	234	84	35.90	147	62.82	2	0.85	0	-	1	0.43	0	-	0	2	
+Provisional	1387	15	2	13.33	12	80.00	0	-	1	6.67	0	-	0	-	0	1	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	963	213	22.12	727	75.49	11	1.14	4	0.42	7	0.73	1	0.10	0	28	
+Absentee	2028	17	2	11.76	15	88.24	0	-	0	-	0	-	0	-	0	12	
+Mail-In	2028	505	217	42.97	284	56.24	4	0.79	0	-	0	-	0	-	0	6	
+Provisional	2028	14	4	28.57	8	57.14	0	-	1	7.14	0	-	1	7.14	0	0	
+BURLINGTON BOROUGH	
+Normal	89	57	8	14.04	47	82.46	2	3.51	0	-	0	-	0	-	0	3	
+Absentee	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	89	11	5	45.45	6	54.55	0	-	0	-	0	-	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	347	33	9.51	304	87.61	4	1.15	6	1.73	0	-	0	-	0	4	
+Absentee	498	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	498	73	35	47.95	38	52.05	0	-	0	-	0	-	0	-	0	0	
+Provisional	498	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	217	26	11.98	190	87.56	0	-	1	0.46	0	-	0	-	0	2	
+Absentee	327	9	3	33.33	6	66.67	0	-	0	-	0	-	0	-	0	1	
+Mail-In	327	38	12	31.58	25	65.79	0	-	1	2.63	0	-	0	-	0	0	
+Provisional	327	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	2	
+CANTON BOROUGH	
+Normal	995	572	98	17.13	456	79.72	9	1.57	9	1.57	0	-	0	-	0	16	
+Absentee	995	13	2	15.38	11	84.62	0	-	0	-	0	-	0	-	0	1	
+Mail-In	995	109	45	41.28	64	58.72	0	-	0	-	0	-	0	-	0	3	
+Provisional	995	18	1	5.56	17	94.44	0	-	0	-	0	-	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	861	91	10.57	757	87.92	6	0.70	6	0.70	1	0.12	0	-	0	13	
+Absentee	1239	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	1239	154	39	25.32	115	74.68	0	-	0	-	0	-	0	-	1	2	
+Provisional	1239	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	4	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	497	80	16.10	406	81.69	5	1.01	5	1.01	1	0.20	0	-	0	8	
+Absentee	723	7	0	-	7	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	723	77	26	33.77	46	59.74	2	2.60	0	-	2	2.60	1	1.30	0	1	
+Provisional	723	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	2	
+FRANKLIN TOWNSHIP	
+Normal	397	272	19	6.99	247	90.81	3	1.10	2	0.74	1	0.37	0	-	0	7	
+Absentee	397	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	3	
+Mail-In	397	37	9	24.32	27	72.97	1	2.70	0	-	0	-	0	-	0	0	
+Provisional	397	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	406	44	10.84	359	88.42	1	0.25	2	0.49	0	-	0	-	0	7	
+Absentee	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	600	60	18	30.00	41	68.33	0	-	0	-	1	1.67	0	-	0	3	
+Provisional	600	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	348	25	7.18	317	91.09	3	0.86	0	-	3	0.86	0	-	0	7	
+Absentee	496	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	496	65	13	20.00	52	80.00	0	-	0	-	0	-	0	-	0	0	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	124	19	15.32	101	81.45	2	1.61	2	1.61	0	-	0	-	0	1	
+Absentee	163	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	163	16	6	37.50	10	62.50	0	-	0	-	0	-	0	-	0	1	
+Provisional	163	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	310	44	14.19	262	84.52	2	0.65	1	0.32	0	-	1	0.32	0	8	
+Absentee	440	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	2	
+Mail-In	440	54	14	25.93	40	74.07	0	-	0	-	0	-	0	-	0	1	
+Provisional	440	4	0	-	4	100.00	0	-	0	-	0	-	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	630	62	9.84	553	87.78	11	1.75	3	0.48	0	-	1	0.16	0	13	
+Absentee	944	11	4	36.36	7	63.64	0	-	0	-	0	-	0	-	0	2	
+Mail-In	944	118	34	28.81	83	70.34	0	-	0	-	1	0.85	0	-	0	2	
+Provisional	944	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	185	29	15.68	147	79.46	8	4.32	1	0.54	0	-	0	-	0	3	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	304	64	25	39.06	38	59.38	0	-	1	1.56	0	-	0	-	0	0	
+Provisional	304	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	436	53	12.16	374	85.78	3	0.69	6	1.38	0	-	0	-	0	14	
+Absentee	718	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	718	116	27	23.28	89	76.72	0	-	0	-	0	-	0	-	0	1	
+Provisional	718	6	2	33.33	3	50.00	0	-	0	-	1	16.67	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	100	15	15.00	80	80.00	1	1.00	1	1.00	3	3.00	0	-	0	2	
+Absentee	148	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	148	15	6	40.00	9	60.00	0	-	0	-	0	-	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	536	62	11.57	470	87.69	3	0.56	1	0.19	0	-	0	-	0	11	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	782	98	31	31.63	66	67.35	0	-	1	1.02	0	-	0	-	0	2	
+Provisional	782	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	130	16	12.31	113	86.92	0	-	1	0.77	0	-	0	-	0	1	
+Absentee	171	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	171	12	2	16.67	9	75.00	0	-	1	8.33	0	-	0	-	0	3	
+Provisional	171	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	281	39	13.88	234	83.27	4	1.42	3	1.07	1	0.36	0	-	0	11	
+Absentee	404	0	0	-	0	-	0	-	0	-	0	-	0	-	0	2	
+Mail-In	404	45	10	22.22	34	75.56	0	-	0	-	1	2.22	0	-	0	1	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	773	93	12.03	658	85.12	9	1.16	8	1.03	5	0.65	0	-	0	13	
+Absentee	1322	11	0	-	11	100.00	0	-	0	-	0	-	0	-	0	5	
+Mail-In	1322	204	75	36.76	122	59.80	3	1.47	4	1.96	0	-	0	-	0	6	
+Provisional	1322	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	1	
+ROME BOROUGH	
+Normal	190	102	13	12.75	87	85.29	0	-	2	1.96	0	-	0	-	0	6	
+Absentee	190	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	190	18	4	22.22	14	77.78	0	-	0	-	0	-	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	483	40	8.28	429	88.82	9	1.86	4	0.83	1	0.21	0	-	0	9	
+Absentee	712	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	712	87	27	31.03	57	65.52	0	-	2	2.30	0	-	1	1.15	0	2	
+Provisional	712	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	246	71	28.86	172	69.92	3	1.22	0	-	0	-	0	-	0	4	
+Absentee	485	5	4	80.00	1	20.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	485	71	39	54.93	32	45.07	0	-	0	-	0	-	0	-	0	1	
+Provisional	485	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	885	270	30.51	592	66.89	17	1.92	4	0.45	1	0.11	1	0.11	0	18	
+Absentee	1563	14	7	50.00	7	50.00	0	-	0	-	0	-	0	-	0	6	
+Mail-In	1563	251	140	55.78	110	43.82	1	0.40	0	-	0	-	0	-	0	4	
+Provisional	1563	12	3	25.00	9	75.00	0	-	0	-	0	-	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	221	55	24.89	154	69.68	8	3.62	3	1.36	1	0.45	0	-	0	3	
+Absentee	356	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	356	36	17	47.22	18	50.00	0	-	0	-	1	2.78	0	-	0	0	
+Provisional	356	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	568	154	27.11	404	71.13	5	0.88	2	0.35	2	0.35	1	0.18	0	13	
+Absentee	908	7	4	57.14	3	42.86	0	-	0	-	0	-	0	-	0	4	
+Mail-In	908	104	59	56.73	40	38.46	3	2.88	2	1.92	0	-	0	-	0	2	
+Provisional	908	8	3	37.50	5	62.50	0	-	0	-	0	-	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	104	23	22.12	79	75.96	2	1.92	0	-	0	-	0	-	0	5	
+Absentee	194	1	1	100.00	0	-	0	-	0	-	0	-	0	-	0	1	
+Mail-In	194	17	9	52.94	8	47.06	0	-	0	-	0	-	0	-	0	0	
+Provisional	194	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	553	67	12.12	473	85.53	9	1.63	3	0.54	0	-	1	0.18	0	9	
+Absentee	868	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	868	126	38	30.16	87	69.05	0	-	1	0.79	0	-	0	-	0	0	
+Provisional	868	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	694	74	10.66	602	86.74	7	1.01	8	1.15	2	0.29	1	0.14	0	12	
+Absentee	1035	6	2	33.33	3	50.00	0	-	1	16.67	0	-	0	-	0	2	
+Mail-In	1035	139	42	30.22	97	69.78	0	-	0	-	0	-	0	-	0	3	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	-	0	-	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	532	68	12.78	445	83.65	10	1.88	8	1.50	1	0.19	0	-	0	17	
+Absentee	808	7	1	14.29	6	85.71	0	-	0	-	0	-	0	-	0	0	
+Mail-In	808	87	40	45.98	42	48.28	2	2.30	2	2.30	1	1.15	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	498	114	22.89	373	74.90	6	1.20	0	-	4	0.80	1	0.20	0	14	
+Absentee	813	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+Mail-In	813	113	57	50.44	56	49.56	0	-	0	-	0	-	0	-	0	3	
+Provisional	813	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	521	79	15.16	429	82.34	9	1.73	4	0.77	0	-	0	-	0	17	
+Absentee	797	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	797	121	44	36.36	73	60.33	2	1.65	1	0.83	1	0.83	0	-	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	260	39	15.00	218	83.85	1	0.38	1	0.38	1	0.38	0	-	0	5	
+Absentee	420	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	1	
+Mail-In	420	71	19	26.76	50	70.42	0	-	2	2.82	0	-	0	-	0	1	
+Provisional	420	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	199	21	10.55	176	88.44	1	0.50	1	0.50	0	-	0	-	0	0	
+Absentee	299	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	299	41	10	24.39	30	73.17	1	2.44	0	-	0	-	0	-	0	0	
+Provisional	299	3	1	33.33	2	66.67	0	-	0	-	0	-	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	84	11	13.10	69	82.14	3	3.57	0	-	0	-	1	1.19	0	2	
+Absentee	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	122	13	6	46.15	6	46.15	0	-	1	7.69	0	-	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	416	47	11.30	360	86.54	6	1.44	2	0.48	1	0.24	0	-	0	6	
+Absentee	629	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	629	106	24	22.64	80	75.47	1	0.94	1	0.94	0	-	0	-	0	2	
+Provisional	629	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	203	44	21.67	153	75.37	3	1.48	3	1.48	0	-	0	-	0	3	
+Absentee	368	2	2	100.00	0	-	0	-	0	-	0	-	0	-	0	0	
+Mail-In	368	48	18	37.50	30	62.50	0	-	0	-	0	-	0	-	0	0	
+Provisional	368	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	281	76	27.05	201	71.53	1	0.36	3	1.07	0	-	0	-	0	2	
+Absentee	540	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	540	81	27	33.33	53	65.43	0	-	0	-	1	1.23	0	-	0	1	
+Provisional	540	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	452	112	24.78	325	71.90	11	2.43	1	0.22	3	0.66	0	-	0	5	
+Absentee	767	12	0	-	12	100.00	0	-	0	-	0	-	0	-	0	5	
+Mail-In	767	112	50	44.64	61	54.46	0	-	0	-	1	0.89	0	-	0	6	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	359	51	14.21	300	83.57	1	0.28	4	1.11	3	0.84	0	-	0	6	
+Absentee	631	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	631	111	40	36.04	70	63.06	0	-	1	0.90	0	-	0	-	0	1	
+Provisional	631	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	336	52	15.48	275	81.85	6	1.79	2	0.60	1	0.30	0	-	0	5	
+Absentee	657	9	2	22.22	5	55.56	1	11.11	0	-	1	11.11	0	-	0	0	
+Mail-In	657	168	70	41.67	94	55.95	3	1.79	0	-	0	-	1	0.60	0	8	
+Provisional	657	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	0	
+TROY BOROUGH	
+Normal	745	460	104	22.61	344	74.78	4	0.87	5	1.09	2	0.43	1	0.22	0	11	
+Absentee	745	0	0	-	0	-	0	-	0	-	0	-	0	-	0	7	
+Mail-In	745	82	35	42.68	46	56.10	1	1.22	0	-	0	-	0	-	0	0	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	-	0	-	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	696	88	12.64	588	84.48	10	1.44	9	1.29	1	0.14	0	-	0	17	
+Absentee	1120	6	2	33.33	4	66.67	0	-	0	-	0	-	0	-	0	4	
+Mail-In	1120	174	49	28.16	123	70.69	0	-	1	0.57	0	-	1	0.57	0	4	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	-	0	-	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	470	40	8.51	418	88.94	8	1.70	2	0.43	1	0.21	1	0.21	0	13	
+Absentee	687	3	2	66.67	1	33.33	0	-	0	-	0	-	0	-	0	4	
+Mail-In	687	81	17	20.99	63	77.78	0	-	0	-	1	1.23	0	-	0	3	
+Provisional	687	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	533	66	12.38	457	85.74	5	0.94	5	0.94	0	-	0	-	0	20	
+Absentee	833	3	0	-	3	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	833	94	33	35.11	58	61.70	2	2.13	1	1.06	0	-	0	-	0	1	
+Provisional	833	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	2	
+WARREN TOWNSHIP	
+Normal	711	454	50	11.01	390	85.90	10	2.20	3	0.66	0	-	1	0.22	0	10	
+Absentee	711	4	0	-	3	75.00	1	25.00	0	-	0	-	0	-	0	1	
+Mail-In	711	108	35	32.41	70	64.81	1	0.93	1	0.93	1	0.93	0	-	0	3	
+Provisional	711	6	0	-	6	100.00	0	-	0	-	0	-	0	-	0	0	
+STATE TREASURER Four Year Term	
+	Erin                                              Nickolas	
+	Reg. Voters	Total Votes	McClelland (DEM)	Stacy Garrity (REP)	Ciesielski (LIB)	Troy Bowman (CST)	Chris Foster (FWD)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	525	55	10.48	454	86.48	4	0.76	11	2.10	1	0.19	0	-	0	13	
+Absentee	807	5	2	40.00	3	60.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	807	115	36	31.30	75	65.22	4	3.48	0	-	0	-	0	-	0	1	
+Provisional	807	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	523	60	11.47	457	87.38	3	0.57	2	0.38	1	0.19	0	-	0	13	
+Absentee	780	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	780	109	34	31.19	75	68.81	0	-	0	-	0	-	0	-	0	3	
+Provisional	780	6	1	16.67	5	83.33	0	-	0	-	0	-	0	-	0	2	
+WINDHAM TOWNSHIP	
+Normal	567	370	49	13.24	310	83.78	7	1.89	4	1.08	0	-	0	-	0	9	
+Absentee	567	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	2	
+Mail-In	567	60	19	31.67	40	66.67	0	-	1	1.67	0	-	0	-	0	1	
+Provisional	567	7	0	-	7	100.00	0	-	0	-	0	-	0	-	0	1	
+WYALUSING BOROUGH	
+Normal	401	246	61	24.80	173	70.33	6	2.44	4	1.63	1	0.41	1	0.41	0	5	
+Absentee	401	1	0	-	1	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	401	47	23	48.94	22	46.81	1	2.13	0	-	1	2.13	0	-	0	5	
+Provisional	401	4	1	25.00	3	75.00	0	-	0	-	0	-	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	531	49	9.23	470	88.51	5	0.94	3	0.56	3	0.56	1	0.19	0	15	
+Absentee	828	5	0	-	5	100.00	0	-	0	-	0	-	0	-	0	0	
+Mail-In	828	126	38	30.16	83	65.87	1	0.79	1	0.79	1	0.79	2	1.59	0	2	
+Provisional	828	2	0	-	2	100.00	0	-	0	-	0	-	0	-	0	1	
+WYSOX TOWNSHIP	
+Normal	963	545	68	12.48	472	86.61	5	0.92	0	-	0	-	0	-	0	9	
+Absentee	963	9	5	55.56	4	44.44	0	-	0	-	0	-	0	-	0	8	
+Mail-In	963	175	47	26.86	124	70.86	1	0.57	1	0.57	2	1.14	0	-	0	10	
+Provisional	963	9	0	-	9	100.00	0	-	0	-	0	-	0	-	0	1	
+Total	
+Normal	39312	24457	3777	15.44	20086	82.13	323	1.32	188	0.77	66	0.27	17	0.07	0	528	
+Absentee	39312	273	68	24.91	201	73.63	2	0.73	1	0.37	1	0.37	0	-	0	98	
+Mail-In	39312	5708	2102	36.83	3512	61.53	39	0.68	31	0.54	18	0.32	6	0.11	1	118	
+Provisional	39312	251	49	19.52	194	77.29	1	0.40	3	1.20	2	0.80	2	0.80	0	24	
+Total	39312	30689	5996	19.54	23993	78.18	365	1.19	223	0.73	87	0.28	25	0.08	1	768	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	67	3	4.48	64	95.52	0	-	0	2	
+	95	0	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	0	
+	584	376	52	13.83	324	86.17	0	-	0	5	
+	584	11	2	18.18	9	81.82	0	-	0	1	
+	584	98	43	43.88	55	56.12	0	-	0	1	
+	584	6	2	33.33	4	66.67	0	-	0	1	
+	147	104	7	6.73	97	93.27	0	-	0	0	
+	147	0	0	-	0	-	0	-	0	0	
+	147	15	4	26.67	11	73.33	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	0	
+	693	461	75	16.27	385	83.51	1	0.22	0	5	
+	693	4	2	50.00	2	50.00	0	-	0	0	
+	693	123	50	40.65	73	59.35	0	-	0	2	
+	693	3	0	-	2	66.67	1	33.33	0	3	
+	417	256	81	31.64	175	68.36	0	-	0	4	
+	417	3	1	33.33	2	66.67	0	-	0	0	
+	417	57	36	63.16	20	35.09	1	1.75	0	4	
+	417	3	2	66.67	1	33.33	0	-	0	0	
+	395	222	87	39.19	135	60.81	0	-	0	9	
+	395	2	2	100.00	0	-	0	-	0	1	
+	395	53	34	64.15	19	35.85	0	-	0	2	
+	395	4	3	75.00	1	25.00	0	-	0	0	
+	554	336	91	27.08	245	72.92	0	-	0	8	
+	554	5	4	80.00	1	20.00	0	-	0	4	
+	554	70	42	60.00	28	40.00	0	-	0	1	
+	554	2	1	50.00	1	50.00	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	414	128	30.92	285	68.84	1	0.24	0	11	
+Absentee	648	4	3	75.00	1	25.00	0	-	0	2	
+Mail-In	648	83	45	54.22	38	45.78	0	-	0	3	
+Provisional	648	10	6	60.00	4	40.00	0	-	0	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	827	188	22.73	638	77.15	1	0.12	0	15	
+Absentee	1387	13	6	46.15	7	53.85	0	-	0	2	
+Mail-In	1387	233	113	48.50	120	51.50	0	-	0	3	
+Provisional	1387	16	3	18.75	13	81.25	0	-	0	0	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	965	288	29.84	676	70.05	1	0.10	0	26	
+Absentee	2028	22	9	40.91	12	54.55	1	4.55	0	7	
+Mail-In	2028	503	256	50.89	247	49.11	0	-	0	8	
+Provisional	2028	14	6	42.86	7	50.00	1	7.14	0	0	
+BURLINGTON BOROUGH	
+Normal	89	58	11	18.97	46	79.31	1	1.72	0	2	
+Absentee	89	0	0	-	0	-	0	-	0	0	
+Mail-In	89	11	5	45.45	6	54.55	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	343	45	13.12	297	86.59	1	0.29	0	8	
+Absentee	498	2	0	-	2	100.00	0	-	0	0	
+Mail-In	498	73	40	54.79	33	45.21	0	-	0	0	
+Provisional	498	3	0	-	3	100.00	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	215	36	16.74	179	83.26	0	-	0	4	
+Absentee	327	9	3	33.33	6	66.67	0	-	0	1	
+Mail-In	327	38	14	36.84	24	63.16	0	-	0	0	
+Provisional	327	4	0	-	4	100.00	0	-	0	2	
+CANTON BOROUGH	
+Normal	995	574	125	21.78	449	78.22	0	-	0	14	
+Absentee	995	13	2	15.38	11	84.62	0	-	0	1	
+Mail-In	995	110	52	47.27	58	52.73	0	-	0	2	
+Provisional	995	18	3	16.67	15	83.33	0	-	0	0	
+CANTON TOWNSHIP	
+Normal	1239	861	104	12.08	757	87.92	0	-	0	13	
+Absentee	1239	5	0	-	5	100.00	0	-	0	0	
+Mail-In	1239	155	42	27.10	113	72.90	0	-	0	2	
+Provisional	1239	3	1	33.33	2	66.67	0	-	0	4	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	494	92	18.62	402	81.38	0	-	0	11	
+Absentee	723	7	1	14.29	6	85.71	0	-	0	0	
+Mail-In	723	77	31	40.26	46	59.74	0	-	0	1	
+Provisional	723	4	0	-	4	100.00	0	-	0	2	
+FRANKLIN TOWNSHIP	
+Normal	397	273	29	10.62	244	89.38	0	-	0	6	
+Absentee	397	2	1	50.00	1	50.00	0	-	0	2	
+Mail-In	397	36	11	30.56	25	69.44	0	-	0	1	
+Provisional	397	3	0	-	3	100.00	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	404	46	11.39	358	88.61	0	-	0	9	
+Absentee	600	2	1	50.00	1	50.00	0	-	0	0	
+Mail-In	600	63	23	36.51	40	63.49	0	-	0	0	
+Provisional	600	2	0	-	2	100.00	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	350	29	8.29	321	91.71	0	-	0	5	
+Absentee	496	1	0	-	1	100.00	0	-	0	0	
+Mail-In	496	62	18	29.03	44	70.97	0	-	2	1	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	120	20	16.67	99	82.50	1	0.83	0	5	
+Absentee	163	1	1	100.00	0	-	0	-	0	0	
+Mail-In	163	16	7	43.75	9	56.25	0	-	0	1	
+Provisional	163	0	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	309	48	15.53	261	84.47	0	-	0	9	
+Absentee	440	7	4	57.14	3	42.86	0	-	0	1	
+Mail-In	440	54	21	38.89	33	61.11	0	-	0	1	
+Provisional	440	4	0	-	4	100.00	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	627	78	12.44	548	87.40	1	0.16	0	16	
+Absentee	944	12	5	41.67	7	58.33	0	-	0	1	
+Mail-In	944	115	35	30.43	80	69.57	0	-	0	5	
+Provisional	944	3	0	-	3	100.00	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	185	41	22.16	144	77.84	0	-	0	3	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	0	
+Mail-In	304	63	34	53.97	29	46.03	0	-	0	1	
+Provisional	304	0	0	-	0	-	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	436	77	17.66	359	82.34	0	-	0	14	
+Absentee	718	2	0	-	2	100.00	0	-	0	0	
+Mail-In	718	114	29	25.44	85	74.56	0	-	0	3	
+Provisional	718	6	2	33.33	4	66.67	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	100	22	22.00	78	78.00	0	-	0	2	
+Absentee	148	0	0	-	0	-	0	-	0	0	
+Mail-In	148	15	6	40.00	9	60.00	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	535	77	14.39	458	85.61	0	-	0	12	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	782	99	37	37.37	62	62.63	0	-	0	1	
+Provisional	782	3	0	-	3	100.00	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	130	20	15.38	110	84.62	0	-	0	1	
+Absentee	171	2	0	-	2	100.00	0	-	0	0	
+Mail-In	171	12	3	25.00	9	75.00	0	-	0	3	
+Provisional	171	2	0	-	2	100.00	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	284	53	18.66	231	81.34	0	-	0	8	
+Absentee	404	0	0	-	0	-	0	-	0	2	
+Mail-In	404	46	14	30.43	31	67.39	1	2.17	0	0	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	777	111	14.29	664	85.46	2	0.26	0	9	
+Absentee	1322	12	2	16.67	10	83.33	0	-	0	4	
+Mail-In	1322	202	86	42.57	116	57.43	0	-	0	8	
+Provisional	1322	6	1	16.67	5	83.33	0	-	0	1	
+ROME BOROUGH	
+Normal	190	104	19	18.27	85	81.73	0	-	0	4	
+Absentee	190	2	0	-	2	100.00	0	-	0	0	
+Mail-In	190	18	4	22.22	14	77.78	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	478	51	10.67	427	89.33	0	-	0	14	
+Absentee	712	1	1	100.00	0	-	0	-	0	1	
+Mail-In	712	85	32	37.65	51	60.00	2	2.35	0	4	
+Provisional	712	2	1	50.00	1	50.00	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	245	96	39.18	149	60.82	0	-	0	5	
+Absentee	485	5	5	100.00	0	-	0	-	0	0	
+Mail-In	485	71	42	59.15	29	40.85	0	-	0	1	
+Provisional	485	4	2	50.00	2	50.00	0	-	0	1	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	884	330	37.33	550	62.22	4	0.45	0	19	
+Absentee	1563	17	11	64.71	6	35.29	0	-	0	3	
+Mail-In	1563	250	163	65.20	84	33.60	3	1.20	0	5	
+Provisional	1563	12	5	41.67	7	58.33	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	219	66	30.14	152	69.41	1	0.46	0	5	
+Absentee	356	2	0	-	2	100.00	0	-	0	0	
+Mail-In	356	36	22	61.11	14	38.89	0	-	0	0	
+Provisional	356	1	0	-	1	100.00	0	-	0	1	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	565	199	35.22	364	64.42	2	0.35	0	16	
+Absentee	908	9	6	66.67	3	33.33	0	-	0	2	
+Mail-In	908	104	69	66.35	35	33.65	0	-	0	2	
+Provisional	908	8	4	50.00	4	50.00	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	105	31	29.52	74	70.48	0	-	0	4	
+Absentee	194	1	1	100.00	0	-	0	-	0	1	
+Mail-In	194	17	11	64.71	6	35.29	0	-	0	0	
+Provisional	194	3	2	66.67	1	33.33	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	556	76	13.67	476	85.61	4	0.72	0	6	
+Absentee	868	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	868	124	45	36.29	79	63.71	0	-	0	2	
+Provisional	868	2	0	-	2	100.00	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	696	98	14.08	597	85.78	1	0.14	0	10	
+Absentee	1035	7	3	42.86	4	57.14	0	-	0	1	
+Mail-In	1035	140	57	40.71	83	59.29	0	-	0	2	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	533	81	15.20	450	84.43	2	0.38	0	16	
+Absentee	808	7	2	28.57	5	71.43	0	-	0	0	
+Mail-In	808	87	45	51.72	42	48.28	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	499	150	30.06	348	69.74	1	0.20	0	13	
+Absentee	813	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	813	113	64	56.64	49	43.36	0	-	0	3	
+Provisional	813	2	1	50.00	1	50.00	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	525	84	16.00	441	84.00	0	-	0	13	
+Absentee	797	6	2	33.33	4	66.67	0	-	0	1	
+Mail-In	797	121	51	42.15	69	57.02	1	0.83	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	257	53	20.62	202	78.60	2	0.78	0	8	
+Absentee	420	2	0	-	2	100.00	0	-	0	0	
+Mail-In	420	71	24	33.80	47	66.20	0	-	0	1	
+Provisional	420	0	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	195	26	13.33	169	86.67	0	-	0	4	
+Absentee	299	1	1	100.00	0	-	0	-	0	0	
+Mail-In	299	41	13	31.71	28	68.29	0	-	0	0	
+Provisional	299	3	1	33.33	2	66.67	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	85	14	16.47	70	82.35	1	1.18	0	1	
+Absentee	122	0	0	-	0	-	0	-	0	0	
+Mail-In	122	13	11	84.62	2	15.38	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	413	57	13.80	354	85.71	2	0.48	0	9	
+Absentee	629	5	0	-	5	100.00	0	-	0	1	
+Mail-In	629	106	31	29.25	73	68.87	2	1.89	0	2	
+Provisional	629	1	0	-	1	100.00	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	201	53	26.37	148	73.63	0	-	0	5	
+Absentee	368	2	2	100.00	0	-	0	-	0	0	
+Mail-In	368	48	19	39.58	29	60.42	0	-	0	0	
+Provisional	368	3	2	66.67	1	33.33	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	281	100	35.59	181	64.41	0	-	0	2	
+Absentee	540	5	0	-	5	100.00	0	-	0	0	
+Mail-In	540	82	32	39.02	50	60.98	0	-	0	0	
+Provisional	540	1	0	-	1	100.00	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	451	142	31.49	307	68.07	2	0.44	0	6	
+Absentee	767	13	3	23.08	10	76.92	0	-	0	4	
+Mail-In	767	109	51	46.79	57	52.29	1	0.92	0	9	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	359	71	19.78	288	80.22	0	-	0	6	
+Absentee	631	2	2	100.00	0	-	0	-	0	0	
+Mail-In	631	111	45	40.54	65	58.56	1	0.90	0	1	
+Provisional	631	2	0	-	2	100.00	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	335	67	20.00	268	80.00	0	-	0	6	
+Absentee	657	9	5	55.56	4	44.44	0	-	0	0	
+Mail-In	657	170	81	47.65	89	52.35	0	-	0	6	
+Provisional	657	2	0	-	2	100.00	0	-	0	0	
+TROY BOROUGH	
+Normal	745	454	118	25.99	336	74.01	0	-	0	17	
+Absentee	745	4	3	75.00	1	25.00	0	-	0	3	
+Mail-In	745	81	38	46.91	42	51.85	1	1.23	0	1	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	701	105	14.98	595	84.88	1	0.14	0	12	
+Absentee	1120	7	3	42.86	4	57.14	0	-	0	3	
+Mail-In	1120	173	53	30.64	119	68.79	1	0.58	0	5	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	474	57	12.03	417	87.97	0	-	0	9	
+Absentee	687	5	4	80.00	1	20.00	0	-	0	2	
+Mail-In	687	79	18	22.78	61	77.22	0	-	0	5	
+Provisional	687	3	0	-	3	100.00	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	537	91	16.95	445	82.87	1	0.19	0	16	
+Absentee	833	3	1	33.33	2	66.67	0	-	0	0	
+Mail-In	833	94	40	42.55	54	57.45	0	-	0	1	
+Provisional	833	4	2	50.00	2	50.00	0	-	0	2	
+WARREN TOWNSHIP	
+Normal	711	458	59	12.88	397	86.68	2	0.44	0	6	
+Absentee	711	4	0	-	4	100.00	0	-	0	1	
+Mail-In	711	107	37	34.58	70	65.42	0	-	0	4	
+Provisional	711	6	0	-	6	100.00	0	-	0	0	
+REPRESENTATIVE IN CONGRESS 9TH CONGRESSIONAL DISTRICT Two	
+	"Year Term
+Amanda"	
+	Reg. Voters	Total Votes	Waldman (DEM)	Dan Meuser (REP)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	529	67	12.67	462	87.33	0	-	0	9	
+Absentee	807	5	4	80.00	1	20.00	0	-	0	2	
+Mail-In	807	114	44	38.60	70	61.40	0	-	0	2	
+Provisional	807	1	0	-	1	100.00	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	528	69	13.07	459	86.93	0	-	0	8	
+Absentee	780	2	1	50.00	1	50.00	0	-	0	1	
+Mail-In	780	108	43	39.81	65	60.19	0	-	0	4	
+Provisional	780	6	2	33.33	4	66.67	0	-	0	2	
+WINDHAM TOWNSHIP	
+Normal	567	374	59	15.78	314	83.96	1	0.27	0	5	
+Absentee	567	3	0	-	3	100.00	0	-	0	1	
+Mail-In	567	61	22	36.07	39	63.93	0	-	0	0	
+Provisional	567	7	0	-	7	100.00	0	-	0	1	
+WYALUSING BOROUGH	
+Normal	401	244	81	33.20	162	66.39	1	0.41	0	7	
+Absentee	401	1	0	-	1	100.00	0	-	0	0	
+Mail-In	401	47	24	51.06	23	48.94	0	-	0	5	
+Provisional	401	4	1	25.00	3	75.00	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	534	65	12.17	469	87.83	0	-	0	12	
+Absentee	828	5	0	-	5	100.00	0	-	0	0	
+Mail-In	828	126	44	34.92	81	64.29	1	0.79	0	2	
+Provisional	828	2	1	50.00	1	50.00	0	-	0	1	
+WYSOX TOWNSHIP	
+Normal	963	543	89	16.39	454	83.61	0	-	0	11	
+Absentee	963	13	8	61.54	5	38.46	0	-	0	4	
+Mail-In	963	174	58	33.33	116	66.67	0	-	0	11	
+Provisional	963	9	0	-	9	100.00	0	-	0	1	
+Total	
+Normal	39312	24465	4788	19.57	19639	80.27	38	0.16	0	520	
+Absentee	39312	311	121	38.91	189	60.77	1	0.32	0	60	
+Mail-In	39312	5687	2467	43.38	3205	56.36	15	0.26	2	138	
+Provisional	39312	252	65	25.79	185	73.41	2	0.79	0	23	
+Total	39312	30715	7441	24.23	23218	75.59	56	0.18	2	741	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	67	4	5.97	63	94.03	0	-	0	2	
+	95	0	0	-	0	-	0	-	0	0	
+	95	10	3	30.00	7	70.00	0	-	0	0	
+	95	0	0	-	0	-	0	-	0	0	
+	584	376	54	14.36	322	85.64	0	-	0	5	
+	584	10	3	30.00	7	70.00	0	-	0	2	
+	584	97	35	36.08	62	63.92	0	-	0	2	
+	584	6	2	33.33	4	66.67	0	-	0	1	
+	147	101	4	3.96	97	96.04	0	-	0	3	
+	147	0	0	-	0	-	0	-	0	0	
+	147	15	5	33.33	10	66.67	0	-	0	0	
+	147	1	0	-	1	100.00	0	-	0	0	
+	693	458	71	15.50	386	84.28	1	0.22	0	8	
+	693	4	1	25.00	3	75.00	0	-	0	0	
+	693	121	43	35.54	78	64.46	0	-	0	4	
+	693	3	0	-	2	66.67	1	33.33	0	3	
+	417	257	70	27.24	187	72.76	0	-	0	3	
+	417	3	1	33.33	2	66.67	0	-	0	0	
+	417	58	34	58.62	23	39.66	1	1.72	0	3	
+	417	3	2	66.67	1	33.33	0	-	0	0	
+	395	222	81	36.49	141	63.51	0	-	0	9	
+	395	1	1	100.00	0	-	0	-	0	2	
+	395	52	32	61.54	20	38.46	0	-	0	3	
+	395	4	4	100.00	0	-	0	-	0	0	
+	554	336	88	26.19	248	73.81	0	-	0	8	
+	554	3	2	66.67	1	33.33	0	-	0	6	
+	554	68	39	57.35	28	41.18	1	1.47	0	3	
+	554	2	1	50.00	1	50.00	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	648	417	110	26.38	304	72.90	3	0.72	0	8	
+Absentee	648	2	1	50.00	1	50.00	0	-	0	4	
+Mail-In	648	83	44	53.01	39	46.99	0	-	0	3	
+Provisional	648	10	5	50.00	5	50.00	0	-	0	0	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	1387	825	175	21.21	648	78.55	2	0.24	0	17	
+Absentee	1387	12	5	41.67	7	58.33	0	-	0	3	
+Mail-In	1387	231	104	45.02	126	54.55	1	0.43	0	5	
+Provisional	1387	16	3	18.75	13	81.25	0	-	0	0	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	2028	965	254	26.32	710	73.58	1	0.10	0	26	
+Absentee	2028	16	2	12.50	14	87.50	0	-	0	13	
+Mail-In	2028	503	244	48.51	258	51.29	1	0.20	0	8	
+Provisional	2028	14	5	35.71	8	57.14	1	7.14	0	0	
+BURLINGTON BOROUGH	
+Normal	89	57	13	22.81	43	75.44	1	1.75	0	3	
+Absentee	89	0	0	-	0	-	0	-	0	0	
+Mail-In	89	11	5	45.45	6	54.55	0	-	0	0	
+Provisional	89	0	0	-	0	-	0	-	0	0	
+BURLINGTON TOWNSHIP	
+Normal	498	346	52	15.03	293	84.68	1	0.29	0	5	
+Absentee	498	2	0	-	2	100.00	0	-	0	0	
+Mail-In	498	73	35	47.95	38	52.05	0	-	0	0	
+Provisional	498	3	0	-	3	100.00	0	-	0	0	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	218	36	16.51	181	83.03	1	0.46	0	1	
+Absentee	327	8	1	12.50	7	87.50	0	-	0	2	
+Mail-In	327	38	11	28.95	27	71.05	0	-	0	0	
+Provisional	327	4	1	25.00	3	75.00	0	-	0	2	
+CANTON BOROUGH	
+Normal	995	576	107	18.58	469	81.42	0	-	0	12	
+Absentee	995	13	2	15.38	11	84.62	0	-	0	1	
+Mail-In	995	110	49	44.55	61	55.45	0	-	0	2	
+Provisional	995	17	1	5.88	16	94.12	0	-	0	1	
+CANTON TOWNSHIP	
+Normal	1239	860	80	9.30	780	90.70	0	-	0	14	
+Absentee	1239	5	0	-	5	100.00	0	-	0	0	
+Mail-In	1239	155	38	24.52	117	75.48	0	-	0	2	
+Provisional	1239	3	1	33.33	2	66.67	0	-	0	4	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	498	85	17.07	413	82.93	0	-	0	7	
+Absentee	723	7	1	14.29	6	85.71	0	-	0	0	
+Mail-In	723	76	29	38.16	47	61.84	0	-	0	2	
+Provisional	723	5	1	20.00	4	80.00	0	-	0	1	
+FRANKLIN TOWNSHIP	
+Normal	397	274	34	12.41	240	87.59	0	-	0	5	
+Absentee	397	1	0	-	1	100.00	0	-	0	3	
+Mail-In	397	37	9	24.32	27	72.97	1	2.70	0	0	
+Provisional	397	3	0	-	3	100.00	0	-	0	0	
+GRANVILLE TOWNSHIP	
+Normal	600	407	39	9.58	368	90.42	0	-	0	6	
+Absentee	600	2	1	50.00	1	50.00	0	-	0	0	
+Mail-In	600	61	19	31.15	42	68.85	0	-	0	2	
+Provisional	600	2	0	-	2	100.00	0	-	0	0	
+HERRICK TOWNSHIP	
+Normal	496	351	24	6.84	327	93.16	0	-	0	4	
+Absentee	496	1	0	-	1	100.00	0	-	0	0	
+Mail-In	496	64	20	31.25	44	68.75	0	-	0	1	
+Provisional	496	3	1	33.33	2	66.67	0	-	0	0	
+LERAYSVILLE BOROUGH	
+Normal	163	123	20	16.26	103	83.74	0	-	0	2	
+Absentee	163	1	1	100.00	0	-	0	-	0	0	
+Mail-In	163	16	6	37.50	9	56.25	1	6.25	0	1	
+Provisional	163	0	0	-	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	307	45	14.66	262	85.34	0	-	0	11	
+Absentee	440	6	2	33.33	4	66.67	0	-	0	2	
+Mail-In	440	54	17	31.48	37	68.52	0	-	0	1	
+Provisional	440	4	0	-	4	100.00	0	-	0	0	
+LITCHFIELD TOWNSHIP	
+Normal	944	632	72	11.39	557	88.13	3	0.47	0	11	
+Absentee	944	11	4	36.36	7	63.64	0	-	0	2	
+Mail-In	944	117	39	33.33	78	66.67	0	-	0	3	
+Provisional	944	3	1	33.33	2	66.67	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	185	36	19.46	149	80.54	0	-	0	3	
+Absentee	304	4	1	25.00	3	75.00	0	-	0	0	
+Mail-In	304	62	34	54.84	28	45.16	0	-	0	2	
+Provisional	304	0	0	-	0	-	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	436	69	15.83	367	84.17	0	-	0	14	
+Absentee	718	2	0	-	2	100.00	0	-	0	0	
+Mail-In	718	112	28	25.00	83	74.11	1	0.89	0	5	
+Provisional	718	6	3	50.00	3	50.00	0	-	0	0	
+NEW ALBANY BOROUGH	
+Normal	148	100	21	21.00	79	79.00	0	-	0	2	
+Absentee	148	0	0	-	0	-	0	-	0	0	
+Mail-In	148	15	7	46.67	8	53.33	0	-	0	0	
+Provisional	148	3	1	33.33	2	66.67	0	-	0	0	
+ORWELL TOWNSHIP	
+Normal	782	540	76	14.07	464	85.93	0	-	0	7	
+Absentee	782	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	782	99	34	34.34	65	65.66	0	-	0	1	
+Provisional	782	3	0	-	3	100.00	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	129	18	13.95	111	86.05	0	-	0	2	
+Absentee	171	1	0	-	1	100.00	0	-	0	1	
+Mail-In	171	12	2	16.67	10	83.33	0	-	0	3	
+Provisional	171	2	0	-	2	100.00	0	-	0	0	
+PIKE TOWNSHIP	
+Normal	404	289	50	17.30	237	82.01	2	0.69	0	3	
+Absentee	404	0	0	-	0	-	0	-	0	2	
+Mail-In	404	46	13	28.26	32	69.57	1	2.17	0	0	
+Provisional	404	4	1	25.00	3	75.00	0	-	0	0	
+RIDGEBURY TOWNSHIP	
+Normal	1322	776	106	13.66	668	86.08	2	0.26	0	10	
+Absentee	1322	11	0	-	11	100.00	0	-	0	5	
+Mail-In	1322	203	86	42.36	114	56.16	3	1.48	0	7	
+Provisional	1322	6	2	33.33	4	66.67	0	-	0	1	
+ROME BOROUGH	
+Normal	190	104	17	16.35	87	83.65	0	-	0	4	
+Absentee	190	2	0	-	2	100.00	0	-	0	0	
+Mail-In	190	18	4	22.22	14	77.78	0	-	0	2	
+Provisional	190	1	0	-	1	100.00	0	-	0	0	
+ROME TOWNSHIP	
+Normal	712	479	58	12.11	421	87.89	0	-	0	13	
+Absentee	712	1	1	100.00	0	-	0	-	0	1	
+Mail-In	712	87	33	37.93	53	60.92	1	1.15	0	2	
+Provisional	712	2	1	50.00	1	50.00	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	485	245	87	35.51	158	64.49	0	-	0	5	
+Absentee	485	5	5	100.00	0	-	0	-	0	0	
+Mail-In	485	71	38	53.52	33	46.48	0	-	0	1	
+Provisional	485	4	2	50.00	2	50.00	0	-	0	1	
+SAYRE BOROUGH 2ND WARD	
+Normal	1563	880	309	35.11	566	64.32	5	0.57	0	23	
+Absentee	1563	14	7	50.00	7	50.00	0	-	0	6	
+Mail-In	1563	250	152	60.80	98	39.20	0	-	0	5	
+Provisional	1563	12	3	25.00	9	75.00	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	356	220	63	28.64	156	70.91	1	0.45	0	4	
+Absentee	356	1	0	-	1	100.00	0	-	0	1	
+Mail-In	356	36	19	52.78	17	47.22	0	-	0	0	
+Provisional	356	1	0	-	1	100.00	0	-	0	1	
+SAYRE BOROUGH 4TH WARD	
+Normal	908	566	189	33.39	375	66.25	2	0.35	0	15	
+Absentee	908	7	4	57.14	3	42.86	0	-	0	4	
+Mail-In	908	105	65	61.90	40	38.10	0	-	0	1	
+Provisional	908	8	5	62.50	3	37.50	0	-	0	1	
+SAYRE BOROUGH 5TH WARD	
+Normal	194	105	34	32.38	71	67.62	0	-	0	4	
+Absentee	194	1	1	100.00	0	-	0	-	0	1	
+Mail-In	194	17	11	64.71	6	35.29	0	-	0	0	
+Provisional	194	3	1	33.33	2	66.67	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	868	554	76	13.72	474	85.56	4	0.72	0	8	
+Absentee	868	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	868	122	43	35.25	79	64.75	0	-	0	4	
+Provisional	868	2	0	-	2	100.00	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	697	91	13.06	604	86.66	2	0.29	0	9	
+Absentee	1035	6	3	50.00	3	50.00	0	-	0	2	
+Mail-In	1035	139	51	36.69	88	63.31	0	-	0	3	
+Provisional	1035	8	2	25.00	6	75.00	0	-	0	0	
+SOUTH CREEK TOWNSHIP	
+Normal	808	534	74	13.86	459	85.96	1	0.19	0	15	
+Absentee	808	7	1	14.29	6	85.71	0	-	0	0	
+Mail-In	808	87	41	47.13	46	52.87	0	-	0	2	
+Provisional	808	2	0	-	2	100.00	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	813	498	146	29.32	351	70.48	1	0.20	0	14	
+Absentee	813	6	1	16.67	5	83.33	0	-	0	0	
+Mail-In	813	113	63	55.75	50	44.25	0	-	0	3	
+Provisional	813	2	1	50.00	1	50.00	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	526	79	15.02	447	84.98	0	-	0	12	
+Absentee	797	5	0	-	5	100.00	0	-	0	2	
+Mail-In	797	121	40	33.06	81	66.94	0	-	0	1	
+Provisional	797	6	1	16.67	5	83.33	0	-	0	0	
+STANDING STONE TOWNSHIP	
+Normal	420	258	55	21.32	201	77.91	2	0.78	0	7	
+Absentee	420	1	0	-	1	100.00	0	-	0	1	
+Mail-In	420	69	19	27.54	49	71.01	1	1.45	0	3	
+Provisional	420	0	0	-	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	299	199	25	12.56	173	86.93	1	0.50	0	0	
+Absentee	299	1	0	-	1	100.00	0	-	0	0	
+Mail-In	299	39	13	33.33	26	66.67	0	-	0	2	
+Provisional	299	3	1	33.33	2	66.67	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	85	12	14.12	71	83.53	2	2.35	0	1	
+Absentee	122	0	0	-	0	-	0	-	0	0	
+Mail-In	122	13	11	84.62	2	15.38	0	-	0	1	
+Provisional	122	0	0	-	0	-	0	-	0	0	
+TERRY TOWNSHIP	
+Normal	629	417	48	11.51	369	88.49	0	-	0	5	
+Absentee	629	6	0	-	6	100.00	0	-	0	0	
+Mail-In	629	106	28	26.42	76	71.70	2	1.89	0	2	
+Provisional	629	1	0	-	1	100.00	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	368	204	54	26.47	150	73.53	0	-	0	2	
+Absentee	368	2	2	100.00	0	-	0	-	0	0	
+Mail-In	368	48	19	39.58	29	60.42	0	-	0	0	
+Provisional	368	3	1	33.33	2	66.67	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	540	280	98	35.00	182	65.00	0	-	0	3	
+Absentee	540	5	1	20.00	4	80.00	0	-	0	0	
+Mail-In	540	82	34	41.46	48	58.54	0	-	0	0	
+Provisional	540	1	0	-	1	100.00	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	767	453	133	29.36	320	70.64	0	-	0	4	
+Absentee	767	11	0	-	11	100.00	0	-	0	6	
+Mail-In	767	111	51	45.95	60	54.05	0	-	0	7	
+Provisional	767	6	1	16.67	5	83.33	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	359	69	19.22	290	80.78	0	-	0	6	
+Absentee	631	2	1	50.00	1	50.00	0	-	0	0	
+Mail-In	631	110	44	40.00	66	60.00	0	-	0	2	
+Provisional	631	2	0	-	2	100.00	0	-	0	0	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	331	57	17.22	274	82.78	0	-	0	10	
+Absentee	657	9	3	33.33	6	66.67	0	-	0	0	
+Mail-In	657	168	81	48.21	87	51.79	0	-	0	8	
+Provisional	657	2	0	-	2	100.00	0	-	0	0	
+TROY BOROUGH	
+Normal	745	461	113	24.51	348	75.49	0	-	0	10	
+Absentee	745	0	0	-	0	-	0	-	0	7	
+Mail-In	745	82	37	45.12	45	54.88	0	-	0	0	
+Provisional	745	4	2	50.00	2	50.00	0	-	0	0	
+TROY TOWNSHIP	
+Normal	1120	704	102	14.49	601	85.37	1	0.14	0	9	
+Absentee	1120	6	2	33.33	4	66.67	0	-	0	4	
+Mail-In	1120	174	52	29.89	121	69.54	1	0.57	0	4	
+Provisional	1120	7	2	28.57	5	71.43	0	-	0	0	
+TUSCARORA TOWNSHIP	
+Normal	687	471	53	11.25	418	88.75	0	-	0	12	
+Absentee	687	3	2	66.67	1	33.33	0	-	0	4	
+Mail-In	687	82	20	24.39	62	75.61	0	-	0	2	
+Provisional	687	3	0	-	3	100.00	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	833	538	74	13.75	464	86.25	0	-	0	15	
+Absentee	833	3	0	-	3	100.00	0	-	0	0	
+Mail-In	833	92	39	42.39	53	57.61	0	-	0	3	
+Provisional	833	4	2	50.00	2	50.00	0	-	0	2	
+WARREN TOWNSHIP	
+Normal	711	456	65	14.25	389	85.31	2	0.44	0	8	
+Absentee	711	4	0	-	4	100.00	0	-	0	1	
+Mail-In	711	107	33	30.84	74	69.16	0	-	0	4	
+Provisional	711	6	0	-	6	100.00	0	-	0	0	
+SENATOR IN THE GENERAL ASSEMBLY 23RD SENATORIAL DISTRICT Four	
+	Year Term	
+	Reg. Voters	Total Votes	Kim Pitcher (DEM)	Gene Yaw (REP)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	530	60	11.32	469	88.49	1	0.19	0	8	
+Absentee	807	5	1	20.00	4	80.00	0	-	0	2	
+Mail-In	807	115	41	35.65	74	64.35	0	-	0	1	
+Provisional	807	1	0	-	1	100.00	0	-	0	0	
+WILMOT TOWNSHIP	
+Normal	780	518	69	13.32	449	86.68	0	-	0	18	
+Absentee	780	1	0	-	0	-	1	100.00	0	2	
+Mail-In	780	109	38	34.86	71	65.14	0	-	0	3	
+Provisional	780	6	2	33.33	4	66.67	0	-	0	2	
+WINDHAM TOWNSHIP	
+Normal	567	372	61	16.40	311	83.60	0	-	0	7	
+Absentee	567	2	0	-	2	100.00	0	-	0	2	
+Mail-In	567	61	19	31.15	42	68.85	0	-	0	0	
+Provisional	567	7	0	-	7	100.00	0	-	0	1	
+WYALUSING BOROUGH	
+Normal	401	245	74	30.20	170	69.39	1	0.41	0	6	
+Absentee	401	1	0	-	1	100.00	0	-	0	0	
+Mail-In	401	47	25	53.19	22	46.81	0	-	0	5	
+Provisional	401	4	1	25.00	3	75.00	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	828	534	57	10.67	476	89.14	1	0.19	0	12	
+Absentee	828	5	0	-	5	100.00	0	-	0	0	
+Mail-In	828	123	39	31.71	83	67.48	1	0.81	0	5	
+Provisional	828	3	1	33.33	2	66.67	0	-	0	0	
+WYSOX TOWNSHIP	
+Normal	963	545	82	15.05	463	84.95	0	-	0	9	
+Absentee	963	9	5	55.56	4	44.44	0	-	0	8	
+Mail-In	963	176	52	29.55	124	70.45	0	-	0	9	
+Provisional	963	9	0	-	9	100.00	0	-	0	1	
+Total	
+Normal	39312	24496	4478	18.28	19974	81.54	44	0.18	0	489	
+Absentee	39312	269	71	26.39	197	73.23	1	0.37	0	102	
+Mail-In	39312	5679	2319	40.83	3343	58.87	17	0.30	0	148	
+Provisional	39312	253	64	25.30	187	73.91	2	0.79	0	22	
+Total	39312	30697	6932	22.58	23701	77.21	64	0.21	0	761	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+"Jurisdiction Wide ALBA BOROUGH
+Normal Absentee Mail-In Provisional
+ALBANY TOWNSHIP
+Normal Absentee Mail-In Provisional
+ARMENIA TOWNSHIP
+Normal Absentee Mail-In Provisional
+ASYLUM TOWNSHIP
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 1ST WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 2ND WARD
+Normal Absentee Mail-In Provisional
+ATHENS BOROUGH 3RD WARD
+Normal Absentee Mail-In Provisional"	95	68	68	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+	95	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+	95	7	7	100.00	0	-	0	3	-	-	-	-	-	-	-	-	
+	95	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+	-	-	-	-	-	-	-	-	584	360	354	98.33	6	1.67	0	21	
+	-	-	-	-	-	-	-	-	584	9	9	100.00	0	-	0	3	
+	-	-	-	-	-	-	-	-	584	81	75	92.59	6	7.41	0	18	
+	-	-	-	-	-	-	-	-	584	6	6	100.00	0	-	0	1	
+	147	102	102	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+	147	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+	147	14	11	78.57	3	21.43	0	1	-	-	-	-	-	-	-	-	
+	147	1	1	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+	-	-	-	-	-	-	-	-	693	436	426	97.71	10	2.29	0	30	
+	-	-	-	-	-	-	-	-	693	4	3	75.00	1	25.00	0	0	
+	-	-	-	-	-	-	-	-	693	109	106	97.25	3	2.75	0	16	
+	-	-	-	-	-	-	-	-	693	3	3	100.00	0	-	0	3	
+	-	-	-	-	-	-	-	-	417	248	233	93.95	15	6.05	0	12	
+	-	-	-	-	-	-	-	-	417	3	3	100.00	0	-	0	0	
+	-	-	-	-	-	-	-	-	417	50	45	90.00	5	10.00	0	11	
+	-	-	-	-	-	-	-	-	417	2	1	50.00	1	50.00	0	1	
+	-	-	-	-	-	-	-	-	395	212	205	96.70	7	3.30	0	19	
+	-	-	-	-	-	-	-	-	395	1	0	-	1	100.00	0	2	
+	-	-	-	-	-	-	-	-	395	48	42	87.50	6	12.50	0	7	
+	-	-	-	-	-	-	-	-	395	4	4	100.00	0	-	0	0	
+	-	-	-	-	-	-	-	-	554	323	313	96.90	10	3.10	0	21	
+	-	-	-	-	-	-	-	-	554	2	1	50.00	1	50.00	0	7	
+	-	-	-	-	-	-	-	-	554	62	53	85.48	9	14.52	0	9	
+	-	-	-	-	-	-	-	-	554	1	1	100.00	0	-	0	1	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+ATHENS BOROUGH 4TH WARD	
+Normal	-	-	-	-	-	-	-	-	648	404	381	94.31	23	5.69	0	21	
+Absentee	-	-	-	-	-	-	-	-	648	2	2	100.00	0	-	0	4	
+Mail-In	-	-	-	-	-	-	-	-	648	74	71	95.95	3	4.05	0	12	
+Provisional	-	-	-	-	-	-	-	-	648	8	8	100.00	0	-	0	2	
+ATHENS TOWNSHIP 1ST DISTRICT	
+Normal	-	-	-	-	-	-	-	-	1387	795	771	96.98	24	3.02	0	47	
+Absentee	-	-	-	-	-	-	-	-	1387	11	9	81.82	2	18.18	0	4	
+Mail-In	-	-	-	-	-	-	-	-	1387	212	202	95.28	10	4.72	0	24	
+Provisional	-	-	-	-	-	-	-	-	1387	15	15	100.00	0	-	0	1	
+ATHENS TOWNSHIP 2ND DISTRICT	
+Normal	-	-	-	-	-	-	-	-	2028	920	882	95.87	38	4.13	0	71	
+Absentee	-	-	-	-	-	-	-	-	2028	18	15	83.33	3	16.67	0	11	
+Mail-In	-	-	-	-	-	-	-	-	2028	439	408	92.94	31	7.06	0	72	
+Provisional	-	-	-	-	-	-	-	-	2028	14	14	100.00	0	-	0	0	
+BURLINGTON BOROUGH	
+Normal	89	55	53	96.36	2	3.64	0	5	-	-	-	-	-	-	-	-	
+Absentee	89	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	89	11	10	90.91	1	9.09	0	0	-	-	-	-	-	-	-	-	
+Provisional	89	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+BURLINGTON TOWNSHIP	
+Normal	498	328	326	99.39	2	0.61	0	23	-	-	-	-	-	-	-	-	
+Absentee	498	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	498	60	59	98.33	1	1.67	0	13	-	-	-	-	-	-	-	-	
+Provisional	498	3	3	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+WEST BURLINGTON TOWNSHIP	
+Normal	327	208	206	99.04	2	0.96	0	11	-	-	-	-	-	-	-	-	
+Absentee	327	9	9	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+Mail-In	327	32	32	100.00	0	-	0	6	-	-	-	-	-	-	-	-	
+Provisional	327	4	4	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+CANTON BOROUGH	
+Normal	995	544	531	97.61	13	2.39	0	44	-	-	-	-	-	-	-	-	
+Absentee	995	12	12	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+Mail-In	995	93	90	96.77	3	3.23	0	19	-	-	-	-	-	-	-	-	
+Provisional	995	18	18	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+CANTON TOWNSHIP	
+Normal	1239	841	838	99.64	3	0.36	0	33	-	-	-	-	-	-	-	-	
+Absentee	1239	5	5	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	1239	142	138	97.18	4	2.82	0	15	-	-	-	-	-	-	-	-	
+Provisional	1239	3	3	100.00	0	-	0	4	-	-	-	-	-	-	-	-	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+COLUMBIA TOWNSHIP	
+Normal	723	486	477	98.15	9	1.85	0	19	-	-	-	-	-	-	-	-	
+Absentee	723	7	7	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	723	66	61	92.42	5	7.58	0	12	-	-	-	-	-	-	-	-	
+Provisional	723	4	4	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+FRANKLIN TOWNSHIP	
+Normal	397	268	266	99.25	2	0.75	0	11	-	-	-	-	-	-	-	-	
+Absentee	397	1	1	100.00	0	-	0	3	-	-	-	-	-	-	-	-	
+Mail-In	397	33	33	100.00	0	-	0	4	-	-	-	-	-	-	-	-	
+Provisional	397	2	2	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+GRANVILLE TOWNSHIP	
+Normal	600	398	396	99.50	2	0.50	0	15	-	-	-	-	-	-	-	-	
+Absentee	600	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	600	53	52	98.11	1	1.89	0	10	-	-	-	-	-	-	-	-	
+Provisional	600	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+HERRICK TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	496	349	341	97.71	8	2.29	0	6	
+Absentee	-	-	-	-	-	-	-	-	496	1	1	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	496	56	54	96.43	2	3.57	0	9	
+Provisional	-	-	-	-	-	-	-	-	496	3	2	66.67	1	33.33	0	0	
+LERAYSVILLE BOROUGH	
+Normal	-	-	-	-	-	-	-	-	163	118	118	100.00	0	-	0	7	
+Absentee	-	-	-	-	-	-	-	-	163	0	0	-	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	163	15	13	86.67	2	13.33	0	2	
+Provisional	-	-	-	-	-	-	-	-	163	0	0	-	0	-	0	0	
+LEROY TOWNSHIP	
+Normal	440	294	292	99.32	2	0.68	0	24	-	-	-	-	-	-	-	-	
+Absentee	440	6	6	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+Mail-In	440	49	48	97.96	1	2.04	0	6	-	-	-	-	-	-	-	-	
+Provisional	440	4	4	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+LITCHFIELD TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	944	607	597	98.35	10	1.65	0	36	
+Absentee	-	-	-	-	-	-	-	-	944	9	9	100.00	0	-	0	4	
+Mail-In	-	-	-	-	-	-	-	-	944	105	100	95.24	5	4.76	0	15	
+Provisional	-	-	-	-	-	-	-	-	944	3	3	100.00	0	-	0	0	
+MONROE BOROUGH	
+Normal	304	173	173	100.00	0	-	0	15	-	-	-	-	-	-	-	-	
+Absentee	304	3	3	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+Mail-In	304	52	47	90.38	5	9.62	0	12	-	-	-	-	-	-	-	-	
+Provisional	304	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+MONROE TOWNSHIP	
+Normal	718	419	412	98.33	7	1.67	0	31	-	-	-	-	-	-	-	-	
+Absentee	718	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	718	102	98	96.08	4	3.92	0	15	-	-	-	-	-	-	-	-	
+Provisional	718	4	3	75.00	1	25.00	0	2	-	-	-	-	-	-	-	-	
+NEW ALBANY BOROUGH	
+Normal	-	-	-	-	-	-	-	-	148	94	93	98.94	1	1.06	0	8	
+Absentee	-	-	-	-	-	-	-	-	148	0	0	-	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	148	12	12	100.00	0	-	0	3	
+Provisional	-	-	-	-	-	-	-	-	148	2	2	100.00	0	-	0	1	
+ORWELL TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	782	518	506	97.68	12	2.32	0	29	
+Absentee	-	-	-	-	-	-	-	-	782	5	5	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	782	88	83	94.32	5	5.68	0	12	
+Provisional	-	-	-	-	-	-	-	-	782	3	3	100.00	0	-	0	0	
+OVERTON TOWNSHIP	
+Normal	171	121	121	100.00	0	-	0	10	-	-	-	-	-	-	-	-	
+Absentee	171	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	171	10	10	100.00	0	-	0	5	-	-	-	-	-	-	-	-	
+Provisional	171	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+PIKE TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	404	275	268	97.45	7	2.55	0	17	
+Absentee	-	-	-	-	-	-	-	-	404	0	0	-	0	-	0	2	
+Mail-In	-	-	-	-	-	-	-	-	404	43	38	88.37	5	11.63	0	3	
+Provisional	-	-	-	-	-	-	-	-	404	3	3	100.00	0	-	0	1	
+RIDGEBURY TOWNSHIP	
+Normal	1322	740	737	99.59	3	0.41	0	46	-	-	-	-	-	-	-	-	
+Absentee	1322	11	11	100.00	0	-	0	5	-	-	-	-	-	-	-	-	
+Mail-In	1322	173	165	95.38	8	4.62	0	37	-	-	-	-	-	-	-	-	
+Provisional	1322	6	6	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+ROME BOROUGH	
+Normal	-	-	-	-	-	-	-	-	190	103	99	96.12	4	3.88	0	5	
+Absentee	-	-	-	-	-	-	-	-	190	2	2	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	190	17	15	88.24	2	11.76	0	3	
+Provisional	-	-	-	-	-	-	-	-	190	1	1	100.00	0	-	0	0	
+ROME TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	712	467	465	99.57	2	0.43	0	25	
+Absentee	-	-	-	-	-	-	-	-	712	1	1	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	712	77	71	92.21	6	7.79	0	12	
+Provisional	-	-	-	-	-	-	-	-	712	2	2	100.00	0	-	0	0	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+SAYRE BOROUGH 1ST WARD	
+Normal	-	-	-	-	-	-	-	-	485	224	211	94.20	13	5.80	0	26	
+Absentee	-	-	-	-	-	-	-	-	485	5	3	60.00	2	40.00	0	0	
+Mail-In	-	-	-	-	-	-	-	-	485	62	58	93.55	4	6.45	0	10	
+Provisional	-	-	-	-	-	-	-	-	485	4	4	100.00	0	-	0	1	
+SAYRE BOROUGH 2ND WARD	
+Normal	-	-	-	-	-	-	-	-	1563	837	796	95.10	41	4.90	0	66	
+Absentee	-	-	-	-	-	-	-	-	1563	13	11	84.62	2	15.38	0	7	
+Mail-In	-	-	-	-	-	-	-	-	1563	219	201	91.78	18	8.22	0	36	
+Provisional	-	-	-	-	-	-	-	-	1563	12	12	100.00	0	-	0	0	
+SAYRE BOROUGH 3RD WARD	
+Normal	-	-	-	-	-	-	-	-	356	211	198	93.84	13	6.16	0	13	
+Absentee	-	-	-	-	-	-	-	-	356	1	1	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	356	33	29	87.88	4	12.12	0	3	
+Provisional	-	-	-	-	-	-	-	-	356	1	1	100.00	0	-	0	1	
+SAYRE BOROUGH 4TH WARD	
+Normal	-	-	-	-	-	-	-	-	908	534	507	94.94	27	5.06	0	47	
+Absentee	-	-	-	-	-	-	-	-	908	5	5	100.00	0	-	0	6	
+Mail-In	-	-	-	-	-	-	-	-	908	91	85	93.41	6	6.59	0	15	
+Provisional	-	-	-	-	-	-	-	-	908	7	7	100.00	0	-	0	2	
+SAYRE BOROUGH 5TH WARD	
+Normal	-	-	-	-	-	-	-	-	194	104	102	98.08	2	1.92	0	5	
+Absentee	-	-	-	-	-	-	-	-	194	0	0	-	0	-	0	2	
+Mail-In	-	-	-	-	-	-	-	-	194	15	14	93.33	1	6.67	0	2	
+Provisional	-	-	-	-	-	-	-	-	194	3	3	100.00	0	-	0	0	
+SHESHEQUIN TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	868	536	523	97.57	13	2.43	0	26	
+Absentee	-	-	-	-	-	-	-	-	868	6	6	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	868	108	103	95.37	5	4.63	0	18	
+Provisional	-	-	-	-	-	-	-	-	868	2	2	100.00	0	-	0	0	
+SMITHFIELD TOWNSHIP	
+Normal	1035	663	655	98.79	8	1.21	0	43	-	-	-	-	-	-	-	-	
+Absentee	1035	5	4	80.00	1	20.00	0	3	-	-	-	-	-	-	-	-	
+Mail-In	1035	117	113	96.58	4	3.42	0	25	-	-	-	-	-	-	-	-	
+Provisional	1035	7	6	85.71	1	14.29	0	1	-	-	-	-	-	-	-	-	
+SOUTH CREEK TOWNSHIP	
+Normal	808	530	526	99.25	4	0.75	0	19	-	-	-	-	-	-	-	-	
+Absentee	808	7	7	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	808	62	59	95.16	3	4.84	0	27	-	-	-	-	-	-	-	-	
+Provisional	808	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+SOUTH WAVERLY BOROUGH	
+Normal	-	-	-	-	-	-	-	-	813	480	462	96.25	18	3.75	0	32	
+Absentee	-	-	-	-	-	-	-	-	813	5	5	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	813	96	90	93.75	6	6.25	0	20	
+Provisional	-	-	-	-	-	-	-	-	813	2	2	100.00	0	-	0	0	
+SPRINGFIELD TOWNSHIP	
+Normal	797	509	503	98.82	6	1.18	0	29	-	-	-	-	-	-	-	-	
+Absentee	797	5	5	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+Mail-In	797	102	98	96.08	4	3.92	0	20	-	-	-	-	-	-	-	-	
+Provisional	797	6	5	83.33	1	16.67	0	0	-	-	-	-	-	-	-	-	
+STANDING STONE TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	420	253	246	97.23	7	2.77	0	12	
+Absentee	-	-	-	-	-	-	-	-	420	1	1	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	420	61	58	95.08	3	4.92	0	11	
+Provisional	-	-	-	-	-	-	-	-	420	0	0	-	0	-	0	0	
+STEVENS TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	299	194	192	98.97	2	1.03	0	5	
+Absentee	-	-	-	-	-	-	-	-	299	1	1	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	299	35	34	97.14	1	2.86	0	6	
+Provisional	-	-	-	-	-	-	-	-	299	3	3	100.00	0	-	0	0	
+SYLVANIA BOROUGH	
+Normal	122	81	79	97.53	2	2.47	0	5	-	-	-	-	-	-	-	-	
+Absentee	122	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	122	8	8	100.00	0	-	0	6	-	-	-	-	-	-	-	-	
+Provisional	122	0	0	-	0	-	0	0	-	-	-	-	-	-	-	-	
+TERRY TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	629	403	397	98.51	6	1.49	0	19	
+Absentee	-	-	-	-	-	-	-	-	629	6	6	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	629	97	95	97.94	2	2.06	0	11	
+Provisional	-	-	-	-	-	-	-	-	629	1	1	100.00	0	-	0	0	
+TOWANDA BOROUGH 1ST WARD	
+Normal	-	-	-	-	-	-	-	-	368	197	191	96.95	6	3.05	0	9	
+Absentee	-	-	-	-	-	-	-	-	368	1	1	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	368	42	40	95.24	2	4.76	0	6	
+Provisional	-	-	-	-	-	-	-	-	368	3	3	100.00	0	-	0	0	
+TOWANDA BOROUGH 2ND WARD	
+Normal	-	-	-	-	-	-	-	-	540	257	252	98.05	5	1.95	0	26	
+Absentee	-	-	-	-	-	-	-	-	540	5	5	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	540	69	67	97.10	2	2.90	0	13	
+Provisional	-	-	-	-	-	-	-	-	540	1	1	100.00	0	-	0	0	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+TOWANDA BOROUGH 3RD WARD	
+Normal	-	-	-	-	-	-	-	-	767	433	408	94.23	25	5.77	0	24	
+Absentee	-	-	-	-	-	-	-	-	767	11	11	100.00	0	-	0	6	
+Mail-In	-	-	-	-	-	-	-	-	767	95	85	89.47	10	10.53	0	23	
+Provisional	-	-	-	-	-	-	-	-	767	6	6	100.00	0	-	0	0	
+TOWANDA TOWNSHIP	
+Normal	631	331	324	97.89	7	2.11	0	34	-	-	-	-	-	-	-	-	
+Absentee	631	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+Mail-In	631	91	85	93.41	6	6.59	0	21	-	-	-	-	-	-	-	-	
+Provisional	631	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+NORTH TOWANDA TOWNSHIP	
+Normal	657	308	299	97.08	9	2.92	0	33	-	-	-	-	-	-	-	-	
+Absentee	657	7	7	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+Mail-In	657	131	127	96.95	4	3.05	0	45	-	-	-	-	-	-	-	-	
+Provisional	657	2	2	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+TROY BOROUGH	
+Normal	745	430	422	98.14	8	1.86	0	41	-	-	-	-	-	-	-	-	
+Absentee	745	0	0	-	0	-	0	7	-	-	-	-	-	-	-	-	
+Mail-In	745	65	62	95.38	3	4.62	0	17	-	-	-	-	-	-	-	-	
+Provisional	745	2	2	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+TROY TOWNSHIP	
+Normal	1120	680	674	99.12	6	0.88	0	33	-	-	-	-	-	-	-	-	
+Absentee	1120	6	6	100.00	0	-	0	4	-	-	-	-	-	-	-	-	
+Mail-In	1120	154	148	96.10	6	3.90	0	24	-	-	-	-	-	-	-	-	
+Provisional	1120	6	6	100.00	0	-	0	1	-	-	-	-	-	-	-	-	
+TUSCARORA TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	687	465	458	98.49	7	1.51	0	18	
+Absentee	-	-	-	-	-	-	-	-	687	3	1	33.33	2	66.67	0	4	
+Mail-In	-	-	-	-	-	-	-	-	687	74	73	98.65	1	1.35	0	10	
+Provisional	-	-	-	-	-	-	-	-	687	3	3	100.00	0	-	0	0	
+ULSTER TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	833	527	519	98.48	8	1.52	0	26	
+Absentee	-	-	-	-	-	-	-	-	833	3	3	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	833	82	77	93.90	5	6.10	0	13	
+Provisional	-	-	-	-	-	-	-	-	833	3	3	100.00	0	-	0	3	
+WARREN TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	711	444	439	98.87	5	1.13	0	20	
+Absentee	-	-	-	-	-	-	-	-	711	4	4	100.00	0	-	0	1	
+Mail-In	-	-	-	-	-	-	-	-	711	94	93	98.94	1	1.06	0	17	
+Provisional	-	-	-	-	-	-	-	-	711	5	5	100.00	0	-	0	1	
+REPRESENTATIVE IN THE GENERAL ASSEMBLY 68TH            REPRESENTATIVE IN THE GENERAL ASSEMBLY 110TH	
+	LEGISLATIVE DISTRICT Two Year Term	LEGISLATIVE DISTRICT Two Year Term	
+	Reg. Voters	Total Votes	Clint Owlett (REP)	Write-in	Over votes	Under votes	Reg. Voters	Total Votes	Tina Pickett (REP)	Write-in	Over votes	Under votes	
+WELLS TOWNSHIP	
+Normal	807	520	515	99.04	5	0.96	0	18	-	-	-	-	-	-	-	-	
+Absentee	807	5	5	100.00	0	-	0	2	-	-	-	-	-	-	-	-	
+Mail-In	807	97	93	95.88	4	4.12	0	19	-	-	-	-	-	-	-	-	
+Provisional	807	1	1	100.00	0	-	0	0	-	-	-	-	-	-	-	-	
+WILMOT TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	780	512	508	99.22	4	0.78	0	24	
+Absentee	-	-	-	-	-	-	-	-	780	1	1	100.00	0	-	0	2	
+Mail-In	-	-	-	-	-	-	-	-	780	98	96	97.96	2	2.04	0	14	
+Provisional	-	-	-	-	-	-	-	-	780	5	5	100.00	0	-	0	3	
+WINDHAM TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	567	360	356	98.89	4	1.11	0	19	
+Absentee	-	-	-	-	-	-	-	-	567	2	2	100.00	0	-	0	2	
+Mail-In	-	-	-	-	-	-	-	-	567	54	54	100.00	0	-	0	7	
+Provisional	-	-	-	-	-	-	-	-	567	7	7	100.00	0	-	0	1	
+WYALUSING BOROUGH	
+Normal	-	-	-	-	-	-	-	-	401	229	220	96.07	9	3.93	0	22	
+Absentee	-	-	-	-	-	-	-	-	401	1	1	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	401	48	43	89.58	5	10.42	0	4	
+Provisional	-	-	-	-	-	-	-	-	401	4	4	100.00	0	-	0	0	
+WYALUSING TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	828	525	514	97.90	11	2.10	0	21	
+Absentee	-	-	-	-	-	-	-	-	828	5	5	100.00	0	-	0	0	
+Mail-In	-	-	-	-	-	-	-	-	828	110	105	95.45	5	4.55	0	18	
+Provisional	-	-	-	-	-	-	-	-	828	3	3	100.00	0	-	0	0	
+WYSOX TOWNSHIP	
+Normal	-	-	-	-	-	-	-	-	963	526	518	98.48	8	1.52	0	28	
+Absentee	-	-	-	-	-	-	-	-	963	8	7	87.50	1	12.50	0	9	
+Mail-In	-	-	-	-	-	-	-	-	963	159	148	93.08	11	6.92	0	26	
+Provisional	-	-	-	-	-	-	-	-	963	8	8	100.00	0	-	0	2	
+Total	
+Normal	14787	9097	8995	98.88	102	1.12	0	545	24525	14480	14069	97.16	411	2.84	0	863	
+Absentee	14787	99	98	98.99	1	1.01	0	34	24525	155	140	90.32	15	9.68	0	83	
+Mail-In	14787	1724	1654	95.94	70	4.06	0	362	24525	3230	3036	93.99	194	6.01	0	511	
+Provisional	14787	81	78	96.30	3	3.70	0	16	24525	153	151	98.69	2	1.31	0	25	
+Total	14787	11001	10825	98.40	176	1.60	0	957	24525	18018	17396	96.55	622	3.45	0	1482	
