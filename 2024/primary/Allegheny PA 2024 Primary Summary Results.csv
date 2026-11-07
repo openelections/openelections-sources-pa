@@ -1,0 +1,170 @@
+_id,line_number,contest_name,choice_name,party_name,total_votes,percent_of_votes,registered_voters,ballots_cast,total_number_of_precincts,number_of_precincts_reporting,over_votes,under_votes
+1,1,REGISTERED VOTERS - Nonpartisan (Vote For 0),REGISTERED VOTERS - Nonpartisan,NON,0,0,5308,0,1327,1327,0,0
+2,2,DEM President of the United States (Vote For 1),"Joseph R. Biden, Jr.",DEM,145355,85.56,13270,145355,1327,1327,0,0
+3,3,DEM President of the United States (Vote For 1),Write-in,DEM,13378,7.87,905308,245198,1327,1327,0,0
+4,4,DEM President of the United States (Vote For 1),Dean Phillips,DEM,11149,6.56,905308,245198,1327,1327,0,0
+5,5,DEM United States Senator (Vote For 1),"Robert P. Casey, Jr.",DEM,161456,97.78,14597,161456,1327,1327,0,0
+6,6,DEM United States Senator (Vote For 1),Write-in,DEM,3665,2.22,905308,245198,1327,1327,0,0
+7,7,DEM Attorney General (Vote For 1),Eugene DePasquale,DEM,115709,68.93,905308,245198,1327,1327,0,0
+8,8,DEM Attorney General (Vote For 1),Keir Bradford-Grey,DEM,16679,9.94,905308,245198,1327,1327,0,0
+9,9,DEM Attorney General (Vote For 1),Jack Stollsteimer,DEM,12202,7.27,15924,12202,1327,1327,0,0
+10,10,DEM Attorney General (Vote For 1),Joe Khan,DEM,11420,6.8,905308,245198,1327,1327,0,0
+11,11,DEM Attorney General (Vote For 1),Jared Solomon,DEM,11051,6.58,905308,245198,1327,1327,0,0
+12,12,DEM Attorney General (Vote For 1),Write-in,DEM,801,0.48,905308,245198,1327,1327,0,0
+13,13,DEM Auditor General (Vote For 1),Malcolm Kenyatta,DEM,99910,65.35,17251,99910,1327,1327,0,0
+14,14,DEM Auditor General (Vote For 1),Mark Pinsley,DEM,51813,33.89,905308,245198,1327,1327,0,0
+15,15,DEM Auditor General (Vote For 1),Write-in,DEM,1164,0.76,905308,245198,1327,1327,0,0
+16,16,DEM State Treasurer (Vote For 1),Erin McClelland,DEM,115853,70.08,905308,245198,1327,1327,0,0
+17,17,DEM State Treasurer (Vote For 1),Ryan Bizzarro,DEM,48584,29.39,18578,48584,1327,1327,0,0
+18,18,DEM State Treasurer (Vote For 1),Write-in,DEM,881,0.53,905308,245198,1327,1327,0,0
+19,19,DEM Representative in Congress District 12 (Vote For 1),Summer Lee,DEM,59152,61.16,11700,59152,780,780,0,0
+20,20,DEM Representative in Congress District 12 (Vote For 1),Bhavini Patel,DEM,37198,38.46,471010,127312,780,780,0,0
+21,21,DEM Representative in Congress District 12 (Vote For 1),Write-in,DEM,365,0.38,471010,127312,780,780,0,0
+22,22,DEM Representative in Congress District 17 (Vote For 1),Chris Deluzio,DEM,71909,98.59,8768,71909,548,548,0,0
+23,23,DEM Representative in Congress District 17 (Vote For 1),Write-in,DEM,1026,1.41,435000,118069,548,548,0,0
+24,24,DEM Senator in the General Assembly District 37 (Vote For 1),Nicole Ruscitto,DEM,24709,98.7,3179,24709,187,187,0,0
+25,25,DEM Senator in the General Assembly District 37 (Vote For 1),Write-in,DEM,325,1.3,181182,48050,187,187,0,0
+26,26,DEM Senator in the General Assembly District 43 (Vote For 1),"Jay Costa, Jr.",DEM,41496,98.87,5688,41496,316,316,0,0
+27,27,DEM Senator in the General Assembly District 43 (Vote For 1),Write-in,DEM,474,1.13,190020,51762,316,316,0,0
+28,28,DEM Senator in the General Assembly District 45 (Vote For 1),Nick Pisciottano,DEM,22263,72.95,169563,47448,283,283,0,0
+29,29,DEM Senator in the General Assembly District 45 (Vote For 1),Makenzie White,DEM,8068,26.44,5377,8068,283,283,0,0
+30,30,DEM Senator in the General Assembly District 45 (Vote For 1),Write-in,DEM,189,0.62,169563,47448,283,283,0,0
+31,31,DEM Representative in the General Assembly District 19 (Vote For 1),Aerion Andrew Abney,DEM,6883,98.61,1600,6883,80,80,0,0
+32,32,DEM Representative in the General Assembly District 19 (Vote For 1),Write-in,DEM,97,1.39,42566,8651,80,80,0,0
+33,33,DEM Representative in the General Assembly District 20 (Vote For 1),Emily Kinkead,DEM,7735,98.5,1302,7735,62,62,0,0
+34,34,DEM Representative in the General Assembly District 20 (Vote For 1),Write-in,DEM,118,1.5,43840,12143,62,62,0,0
+35,35,DEM Representative in the General Assembly District 21 (Vote For 1),Lindsay Powell,DEM,9118,98.63,1738,9118,79,79,0,0
+36,36,DEM Representative in the General Assembly District 21 (Vote For 1),Write-in,DEM,127,1.37,48222,13518,79,79,0,0
+37,37,DEM Representative in the General Assembly District 23 (Vote For 1),Dan Frankel,DEM,12092,98.55,1472,12092,64,64,0,0
+38,38,DEM Representative in the General Assembly District 23 (Vote For 1),Write-in,DEM,178,1.45,48228,14249,64,64,0,0
+39,39,DEM Representative in the General Assembly District 24 (Vote For 1),La'Tasha D. Mayes,DEM,10082,98.59,2352,10082,98,98,0,0
+40,40,DEM Representative in the General Assembly District 24 (Vote For 1),Write-in,DEM,144,1.41,47399,11878,98,98,0,0
+41,41,DEM Representative in the General Assembly District 25 (Vote For 1),Brandon J. Markosek,DEM,7924,98.9,1650,7924,66,66,0,0
+42,42,DEM Representative in the General Assembly District 25 (Vote For 1),Write-in,DEM,88,1.1,44907,12642,66,66,0,0
+43,43,DEM Representative in the General Assembly District 27 (Vote For 1),Daniel J. Deasy,DEM,7691,98.97,1794,7691,69,69,0,0
+44,44,DEM Representative in the General Assembly District 27 (Vote For 1),Write-in,DEM,80,1.03,42033,11187,69,69,0,0
+45,45,DEM Representative in the General Assembly District 28 (Vote For 1),Bill Petulla,DEM,5683,98.96,1080,5683,40,40,0,0
+46,46,DEM Representative in the General Assembly District 28 (Vote For 1),Write-in,DEM,60,1.04,47156,11995,40,40,0,0
+47,47,DEM Representative in the General Assembly District 30 (Vote For 1),Arvind Venkat,DEM,7200,98.56,1232,7200,44,44,0,0
+48,48,DEM Representative in the General Assembly District 30 (Vote For 1),Write-in,DEM,105,1.44,47136,13547,44,44,0,0
+49,49,DEM Representative in the General Assembly District 32 (Vote For 1),Joe McAndrew,DEM,6803,70.4,1972,6803,68,68,0,0
+50,50,DEM Representative in the General Assembly District 32 (Vote For 1),Pauline Calabrese,DEM,2836,29.35,46611,13516,68,68,0,0
+51,51,DEM Representative in the General Assembly District 32 (Vote For 1),Write-in,DEM,25,0.26,46611,13516,68,68,0,0
+52,52,DEM Representative in the General Assembly District 33 (Vote For 1),Mandy Steele,DEM,6677,98.19,1830,6677,61,61,0,0
+53,53,DEM Representative in the General Assembly District 33 (Vote For 1),Write-in,DEM,123,1.81,43759,11421,61,61,0,0
+54,54,DEM Representative in the General Assembly District 34 (Vote For 1),Abigail Salisbury,DEM,8111,62.86,2511,8111,81,81,0,0
+55,55,DEM Representative in the General Assembly District 34 (Vote For 1),Ashley Comans,DEM,4756,36.86,48748,14986,81,81,0,0
+56,56,DEM Representative in the General Assembly District 34 (Vote For 1),Write-in,DEM,36,0.28,48748,14986,81,81,0,0
+57,57,DEM Representative in the General Assembly District 35 (Vote For 1),Matthew R. Gergely,DEM,7437,99.01,3104,7437,97,97,0,0
+58,58,DEM Representative in the General Assembly District 35 (Vote For 1),Write-in,DEM,74,0.99,42720,10972,97,97,0,0
+59,59,DEM Representative in the General Assembly District 36 (Vote For 1),Jessica Benham,DEM,7444,98.74,2541,7444,77,77,0,0
+60,60,DEM Representative in the General Assembly District 36 (Vote For 1),Write-in,DEM,95,1.26,42051,10155,77,77,0,0
+61,61,DEM Representative in the General Assembly District 38 (Vote For 1),John Inglis,DEM,3182,34.43,43862,13510,68,68,0,0
+62,62,DEM Representative in the General Assembly District 38 (Vote For 1),Victoria Schmotzer,DEM,3144,34.02,43862,13510,68,68,0,0
+63,63,DEM Representative in the General Assembly District 38 (Vote For 1),Anthony J. Olasz,DEM,2885,31.22,2312,2885,68,68,0,0
+64,64,DEM Representative in the General Assembly District 38 (Vote For 1),Write-in,DEM,30,0.32,43862,13510,68,68,0,0
+65,65,DEM Representative in the General Assembly District 39 (Vote For 1),Angela Girol,DEM,5245,98.72,1715,5245,49,49,0,0
+66,66,DEM Representative in the General Assembly District 39 (Vote For 1),Write-in,DEM,68,1.28,37186,10614,49,49,0,0
+67,67,DEM Representative in the General Assembly District 40 (Vote For 1),Write-in,DEM,956,100,1296,956,36,36,0,0
+68,68,DEM Representative in the General Assembly District 42 (Vote For 1),Dan Miller,DEM,9533,99.32,2516,9533,68,68,0,0
+69,69,DEM Representative in the General Assembly District 42 (Vote For 1),Write-in,DEM,65,0.68,48797,14043,68,68,0,0
+70,70,DEM Representative in the General Assembly District 44 (Vote For 1),Hadley Haas,DEM,5718,98.77,1596,5718,42,42,0,0
+71,71,DEM Representative in the General Assembly District 44 (Vote For 1),Write-in,DEM,71,1.23,47238,11567,42,42,0,0
+72,72,DEM Representative in the General Assembly District 45 (Vote For 1),Anita Astorino Kulik,DEM,7506,98.57,2457,7506,63,63,0,0
+73,73,DEM Representative in the General Assembly District 45 (Vote For 1),Write-in,DEM,109,1.43,46550,11832,63,63,0,0
+74,74,DEM Representative in the General Assembly District 46 (Vote For 1),Alex Taylor,DEM,1537,98.27,600,1537,15,15,0,0
+75,75,DEM Representative in the General Assembly District 46 (Vote For 1),Write-in,DEM,27,1.73,13654,2953,15,15,0,0
+76,76,DEM Delegate to the National Conventions District 12 (Vote For 8),Jessica Benham,DEM,71139,13.47,31980,71139,780,780,0,0
+77,77,DEM Delegate to the National Conventions District 12 (Vote For 8),Nick Pisciottano,DEM,67506,12.78,471010,127312,780,780,0,0
+78,78,DEM Delegate to the National Conventions District 12 (Vote For 8),Dan Frankel,DEM,66318,12.55,471010,127312,780,780,0,0
+79,79,DEM Delegate to the National Conventions District 12 (Vote For 8),Michelle Milan McFall,DEM,65962,12.49,471010,127312,780,780,0,0
+80,80,DEM Delegate to the National Conventions District 12 (Vote For 8),Melissa Stephanou,DEM,65455,12.39,471010,127312,780,780,0,0
+81,81,DEM Delegate to the National Conventions District 12 (Vote For 8),Morgan Overton,DEM,63008,11.93,471010,127312,780,780,0,0
+82,82,DEM Delegate to the National Conventions District 12 (Vote For 8),Jim DePoe,DEM,60447,11.44,471010,127312,780,780,0,0
+83,83,DEM Delegate to the National Conventions District 12 (Vote For 8),Nathaniel Yap,DEM,60204,11.4,471010,127312,780,780,0,0
+84,84,DEM Delegate to the National Conventions District 12 (Vote For 8),Write-in,DEM,8222,1.56,471010,127312,780,780,0,0
+85,85,DEM Delegate to the National Conventions District 17 (Vote For 7),Kaylee Werner,DEM,59931,14.57,435000,118069,548,548,0,0
+86,86,DEM Delegate to the National Conventions District 17 (Vote For 7),Lisa M. Baldis,DEM,59033,14.36,435000,118069,548,548,0,0
+87,87,DEM Delegate to the National Conventions District 17 (Vote For 7),Mary Jane Jones-Gilliam,DEM,58640,14.26,435000,118069,548,548,0,0
+88,88,DEM Delegate to the National Conventions District 17 (Vote For 7),Nancy Werme,DEM,58150,14.14,435000,118069,548,548,0,0
+89,89,DEM Delegate to the National Conventions District 17 (Vote For 7),Arvind Venkat,DEM,58085,14.12,23016,58085,548,548,0,0
+90,90,DEM Delegate to the National Conventions District 17 (Vote For 7),Dwan B. Walker,DEM,56360,13.71,435000,118069,548,548,0,0
+91,91,DEM Delegate to the National Conventions District 17 (Vote For 7),Kevin Kinross,DEM,56297,13.69,435000,118069,548,548,0,0
+92,92,DEM Delegate to the National Conventions District 17 (Vote For 7),Write-in,DEM,4730,1.15,435000,118069,548,548,0,0
+93,93,REP President of the United States (Vote For 1),Donald J. Trump,REP,53707,78.54,905308,245198,1327,1327,0,0
+94,94,REP President of the United States (Vote For 1),Nikki R. Haley,REP,12831,18.76,57061,12831,1327,1327,0,0
+95,95,REP President of the United States (Vote For 1),Write-in,REP,1848,2.7,905308,245198,1327,1327,0,0
+96,96,REP United States Senator (Vote For 1),Dave McCormick,REP,63138,97.55,58388,63138,1327,1327,0,0
+97,97,REP United States Senator (Vote For 1),Write-in,REP,1584,2.45,905308,245198,1327,1327,0,0
+98,98,REP Attorney General (Vote For 1),Dave Sunday,REP,40216,68.12,59715,40216,1327,1327,0,0
+99,99,REP Attorney General (Vote For 1),Craig Williams,REP,17976,30.45,905308,245198,1327,1327,0,0
+100,100,REP Attorney General (Vote For 1),Write-in,REP,848,1.44,905308,245198,1327,1327,0,0
+101,101,REP Auditor General (Vote For 1),Tim DeFoor,REP,57303,98.8,61042,57303,1327,1327,0,0
+102,102,REP Auditor General (Vote For 1),Write-in,REP,698,1.2,905308,245198,1327,1327,0,0
+103,103,REP State Treasurer (Vote For 1),Stacy Garrity,REP,58144,98.8,62369,58144,1327,1327,0,0
+104,104,REP State Treasurer (Vote For 1),Write-in,REP,705,1.2,905308,245198,1327,1327,0,0
+105,105,REP Representative in Congress District 12 (Vote For 1),James Hayes,REP,24399,98.15,37440,24399,780,780,0,0
+106,106,REP Representative in Congress District 12 (Vote For 1),Write-in,REP,459,1.85,471010,127312,780,780,0,0
+107,107,REP Representative in Congress District 17 (Vote For 1),Rob Mercuri,REP,35755,98.34,26852,35755,548,548,0,0
+108,108,REP Representative in Congress District 17 (Vote For 1),Write-in,REP,605,1.66,435000,118069,548,548,0,0
+109,109,REP Senator in the General Assembly District 37 (Vote For 1),Devlin Robinson,REP,17913,98.92,9350,17913,187,187,0,0
+110,110,REP Senator in the General Assembly District 37 (Vote For 1),Write-in,REP,196,1.08,181182,48050,187,187,0,0
+111,111,REP Senator in the General Assembly District 43 (Vote For 1),Write-in,REP,631,100,16116,631,316,316,0,0
+112,112,REP Senator in the General Assembly District 45 (Vote For 1),Jen Dintini,REP,10013,74.3,169563,47448,283,283,0,0
+113,113,REP Senator in the General Assembly District 45 (Vote For 1),Kami Stulginskas,REP,3360,24.93,14716,3360,283,283,0,0
+114,114,REP Senator in the General Assembly District 45 (Vote For 1),Write-in,REP,104,0.77,169563,47448,283,283,0,0
+115,115,REP Representative in the General Assembly District 19 (Vote For 1),Write-in,REP,93,100,4240,93,80,80,0,0
+116,116,REP Representative in the General Assembly District 20 (Vote For 1),Matt Kruth,REP,3396,98.55,3348,3396,62,62,0,0
+117,117,REP Representative in the General Assembly District 20 (Vote For 1),Write-in,REP,50,1.45,43840,12143,62,62,0,0
+118,118,REP Representative in the General Assembly District 21 (Vote For 1),Write-in,REP,273,100,4345,273,79,79,0,0
+119,119,REP Representative in the General Assembly District 23 (Vote For 1),Write-in,REP,88,100,3584,88,64,64,0,0
+120,120,REP Representative in the General Assembly District 24 (Vote For 1),Write-in,REP,47,100,5586,47,98,98,0,0
+121,121,REP Representative in the General Assembly District 25 (Vote For 1),John Ritter,REP,3714,98.93,3828,3714,66,66,0,0
+122,122,REP Representative in the General Assembly District 25 (Vote For 1),Write-in,REP,40,1.07,44907,12642,66,66,0,0
+123,123,REP Representative in the General Assembly District 27 (Vote For 1),Write-in,REP,408,100,4071,408,69,69,0,0
+124,124,REP Representative in the General Assembly District 28 (Vote For 1),Jeremy Shaffer,REP,5340,98.56,2400,5340,40,40,0,0
+125,125,REP Representative in the General Assembly District 28 (Vote For 1),Write-in,REP,78,1.44,47156,11995,40,40,0,0
+126,126,REP Representative in the General Assembly District 30 (Vote For 1),Nathan Wolfe,REP,5178,98.76,2684,5178,44,44,0,0
+127,127,REP Representative in the General Assembly District 30 (Vote For 1),Write-in,REP,65,1.24,47136,13547,44,44,0,0
+128,128,REP Representative in the General Assembly District 32 (Vote For 1),Write-in,REP,543,100,4216,543,68,68,0,0
+129,129,REP Representative in the General Assembly District 33 (Vote For 1),Gary Lotz,REP,3452,98.4,3843,3452,61,61,0,0
+130,130,REP Representative in the General Assembly District 33 (Vote For 1),Write-in,REP,56,1.6,43759,11421,61,61,0,0
+131,131,REP Representative in the General Assembly District 34 (Vote For 1),Write-in,REP,149,100,5184,149,81,81,0,0
+132,132,REP Representative in the General Assembly District 35 (Vote For 1),Write-in,REP,203,100,6305,203,97,97,0,0
+133,133,REP Representative in the General Assembly District 36 (Vote For 1),Write-in,REP,176,100,5082,176,77,77,0,0
+134,134,REP Representative in the General Assembly District 38 (Vote For 1),Stone Sobieralski,REP,3316,97.47,4556,3316,68,68,0,0
+135,135,REP Representative in the General Assembly District 38 (Vote For 1),Write-in,REP,86,2.53,43862,13510,68,68,0,0
+136,136,REP Representative in the General Assembly District 39 (Vote For 1),Andrew Kuzma,REP,4254,99.16,3332,4254,49,49,0,0
+137,137,REP Representative in the General Assembly District 39 (Vote For 1),Write-in,REP,36,0.84,37186,10614,49,49,0,0
+138,138,REP Representative in the General Assembly District 40 (Vote For 1),Natalie Mihalek,REP,3767,98.64,2484,3767,36,36,0,0
+139,139,REP Representative in the General Assembly District 40 (Vote For 1),Write-in,REP,52,1.36,32645,9819,36,36,0,0
+140,140,REP Representative in the General Assembly District 42 (Vote For 1),Write-in,REP,926,100,4760,926,68,68,0,0
+141,141,REP Representative in the General Assembly District 44 (Vote For 1),Valerie Gaydos,REP,4731,98.69,2982,4731,42,42,0,0
+142,142,REP Representative in the General Assembly District 44 (Vote For 1),Write-in,REP,63,1.31,47238,11567,42,42,0,0
+143,143,REP Representative in the General Assembly District 45 (Vote For 1),Write-in,REP,1198,100,4536,1198,63,63,0,0
+144,144,REP Representative in the General Assembly District 46 (Vote For 1),Jason Ortitay,REP,1098,99.1,1095,1098,15,15,0,0
+145,145,REP Representative in the General Assembly District 46 (Vote For 1),Write-in,REP,10,0.9,13654,2953,15,15,0,0
+146,146,REP Delegate to the National Conventions District 12 (Vote For 3),Rick Saccone,REP,15556,27.81,471010,127312,780,780,0,0
+147,147,REP Delegate to the National Conventions District 12 (Vote For 3),Dave Majernik,REP,13154,23.52,57720,13154,780,780,0,0
+148,148,REP Delegate to the National Conventions District 12 (Vote For 3),Sue Means,REP,12656,22.63,471010,127312,780,780,0,0
+149,149,REP Delegate to the National Conventions District 12 (Vote For 3),Steve Schlauch,REP,7830,14,471010,127312,780,780,0,0
+150,150,REP Delegate to the National Conventions District 12 (Vote For 3),Kevin Z. Tatulyan,REP,6143,10.98,471010,127312,780,780,0,0
+151,151,REP Delegate to the National Conventions District 12 (Vote For 3),Write-in,REP,596,1.07,471010,127312,780,780,0,0
+152,152,REP Delegate to the National Conventions District 17 (Vote For 3),John Fredericks,REP,15907,18.71,435000,118069,548,548,0,0
+153,153,REP Delegate to the National Conventions District 17 (Vote For 3),Mike McMullen,REP,13841,16.28,41100,13841,548,548,0,0
+154,154,REP Delegate to the National Conventions District 17 (Vote For 3),Toni Shuppe,REP,11259,13.24,435000,118069,548,548,0,0
+155,155,REP Delegate to the National Conventions District 17 (Vote For 3),Bob Howard,REP,9701,11.41,435000,118069,548,548,0,0
+156,156,REP Delegate to the National Conventions District 17 (Vote For 3),Abby Kail,REP,9452,11.12,435000,118069,548,548,0,0
+157,157,REP Delegate to the National Conventions District 17 (Vote For 3),Jack Casey,REP,9401,11.06,435000,118069,548,548,0,0
+158,158,REP Delegate to the National Conventions District 17 (Vote For 3),Veronica S. Steinkirchner,REP,8740,10.28,435000,118069,548,548,0,0
+159,159,REP Delegate to the National Conventions District 17 (Vote For 3),Vincent E. Fusca,REP,5731,6.74,435000,118069,548,548,0,0
+160,160,REP Delegate to the National Conventions District 17 (Vote For 3),Write-in,REP,980,1.15,435000,118069,548,548,0,0
+161,161,REP Alternate Delegate to the National Conventions District 12 (Vote For 3),Jim Means,REP,15946,35.06,471010,127312,780,780,0,0
+162,162,REP Alternate Delegate to the National Conventions District 12 (Vote For 3),Kevin Sheahen,REP,14887,32.74,471010,127312,780,780,0,0
+163,163,REP Alternate Delegate to the National Conventions District 12 (Vote For 3),Kevin Z. Tatulyan,REP,13972,30.72,59280,13972,780,780,0,0
+164,164,REP Alternate Delegate to the National Conventions District 12 (Vote For 3),Write-in,REP,672,1.48,471010,127312,780,780,0,0
+165,165,REP Alternate Delegate to the National Conventions District 17 (Vote For 3),Christine Mattarochia,REP,20137,26.56,435000,118069,548,548,0,0
+166,166,REP Alternate Delegate to the National Conventions District 17 (Vote For 3),Bob Hamilton,REP,19918,26.27,435000,118069,548,548,0,0
+167,167,REP Alternate Delegate to the National Conventions District 17 (Vote For 3),M. J. Costello,REP,18453,24.34,435000,118069,548,548,0,0
+168,168,REP Alternate Delegate to the National Conventions District 17 (Vote For 3),Mike McMullen,REP,16328,21.54,42196,16328,548,548,0,0
+169,169,REP Alternate Delegate to the National Conventions District 17 (Vote For 3),Write-in,REP,984,1.3,435000,118069,548,548,0,0
